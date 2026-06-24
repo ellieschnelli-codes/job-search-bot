@@ -1,1 +1,2597 @@
-{}
+{
+  "ashby:moss:f2c3c972-38f2-4c4a-913a-d9d0263217a7": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Customer Service Specialist - German / English (f/m/d)– incl. Second Level Support"
+  },
+  "ashby:moss:a46b0577-2c58-41ef-a277-643691f9d16f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Customer Success Manager (f/m/d)"
+  },
+  "ashby:moss:a49e7ac5-da65-420b-93b1-cf964bf48d44": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Business Development Representative (f/m/d)"
+  },
+  "ashby:moss:c17bdb8a-86b5-41ba-9c23-f8548269614a": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Account Manager (f/m/d)"
+  },
+  "ashby:moss:5173ab99-7972-4427-b7d6-745dd867e451": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Senior Backend Engineer (f/m/d)"
+  },
+  "ashby:moss:d6b1998b-3d40-4670-9c45-31878bf438b8": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Graduate Sales Associate (f/m/d)"
+  },
+  "ashby:moss:5866aba2-4ab3-4913-a135-62fd582280fb": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Account Manager (f/m/d)"
+  },
+  "ashby:moss:9af5e9e0-8d18-4a09-a987-31af87d3ca57": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "(Senior) Account Executive, DACH (f/m/d)"
+  },
+  "ashby:moss:a83e504e-42b2-4e6b-b537-a36ae15f1766": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "(Senior) Account Executive (f/m/d)"
+  },
+  "ashby:moss:4c725910-ddbc-49c7-92e3-052e1478778b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Customer Success Manager (f/m/d)"
+  },
+  "ashby:moss:89470d75-c6e1-4056-8a18-f7878572350b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Senior Platform Engineer (f/m/d)"
+  },
+  "ashby:moss:cde26aae-4d82-495d-9dd6-6300416edeaf": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Senior Partnership Manager - NL (f/m/d)"
+  },
+  "ashby:moss:776c9af0-12a5-4756-af41-02ff7a1aed72": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Senior Backend Engineer (f/m/d)"
+  },
+  "ashby:moss:4c5c2cba-9f11-4bb3-b5fc-e63c52c0a9bd": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Customer Operations Associate (f/m/d)"
+  },
+  "ashby:moss:558ea9cd-bc8a-421b-97d4-ff17f568c696": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Lead Account Executive (f/m/d)"
+  },
+  "ashby:moss:41ac1f23-fb05-4429-9ba9-70f7b4666c36": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Business Operations Intern (f/m/d)"
+  },
+  "ashby:moss:cee0747b-3e0d-4de7-a0e4-61b7e6e9938e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Customer Support Associate (f/m/d)"
+  },
+  "ashby:moss:99360e77-c937-4986-93b9-a9e560d6031a": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Senior Mobile Engineer - Android (f/m/d)"
+  },
+  "ashby:moss:7fb1ae61-8c8f-41e5-a089-8d02711fb791": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Senior Brand Designer (f/m/d)"
+  },
+  "ashby:moss:88fdfa31-feec-4f32-85f1-0d2f34433069": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "AI Operations Specialist"
+  },
+  "ashby:moss:fc73cae1-d511-4884-bfc7-aa920a18e988": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Senior Information Security Manager (f/m/d)"
+  },
+  "ashby:moss:caf97bc0-63bf-469a-a35c-00a229f9e745": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Graduate Commercial Associate (f/m/d)"
+  },
+  "ashby:moss:f1e2ccfb-5de9-41e3-bcdb-7c4326744bbc": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Senior Product Analyst (f/m/d)"
+  },
+  "ashby:moss:9201245b-9e9a-4281-80b4-3f90a2b9df01": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Associate Partnership Manager - GER"
+  },
+  "ashby:moss:0800fd15-46d6-4709-ab3b-ea2a421f4afe": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Senior Platform Engineer (Agentic Experience) (f/m/d)"
+  },
+  "ashby:moss:890e27cb-8cc2-4c53-8e66-b189bbe15fc6": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "(Senior) Account Executive, DACH (f/m/d)"
+  },
+  "ashby:moss:c8910470-62ec-47d4-8055-e6adbd43c346": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Head of Channel Partnerships f/m/d"
+  },
+  "ashby:moss:e5113767-6807-463f-8d08-08de024c9a36": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Business Development Team Lead (m/f/d)"
+  },
+  "ashby:moss:f8c201d8-7d51-4bb7-8e44-7c8945093ff9": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Moss",
+    "title": "Customer Experience Associate (f/m/d)"
+  },
+  "ashby:n8n:49e569f0-503e-4e42-a1ba-7e63684e90d3": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Sr Product Security Engineer | Remote | Europe"
+  },
+  "ashby:n8n:42e72645-d99a-4545-97b7-53ba3a699893": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "AI Product Manager"
+  },
+  "ashby:n8n:9ad9ea4e-4dce-47dc-ab70-bd251b521c94": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Executive Assistant to the CEO"
+  },
+  "ashby:n8n:6a370ff8-e069-48ed-bffa-5716a3dbd9d5": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Sr Growth Engineer (Fullstack TS/Vue/NodeJS)"
+  },
+  "ashby:n8n:edd9e287-262e-4fcb-8aa5-2067e6526efa": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Product Data Analyst"
+  },
+  "ashby:n8n:3a9dfa61-fc8d-485f-afb2-1afedda5bf8f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Leadership roles (Talent Pool)"
+  },
+  "ashby:n8n:3129949a-eae6-48c6-8c66-8d3e060a195c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": " Design Talent Pool"
+  },
+  "ashby:n8n:a259b31d-3df5-4bc0-9feb-865e85016fba": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "GTM (German-speaking) Talent Pool"
+  },
+  "ashby:n8n:37db5b59-e888-460a-b4ad-9c4b974d854f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Account Executive Talent Pool EMEA"
+  },
+  "ashby:n8n:d195a389-6af5-4b95-82e5-2258953c7297": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Sr AI Engineer | Remote - Europe | TS/Vue/NodeJS"
+  },
+  "ashby:n8n:280c1099-86bb-4808-b780-ed913b09a488": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Enterprise Account Executive (West Coast)"
+  },
+  "ashby:n8n:fe05c209-8069-4a88-aeba-8da23488cd30": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Senior/Staff Product Designer"
+  },
+  "ashby:n8n:53da0231-00c9-4aae-80e3-16d3a93c3381": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Senior Solutions Engineer | West Coast - Remote"
+  },
+  "ashby:n8n:ce930abc-2c80-4f42-adb9-4377bb56c3f1": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Account Executive Talent Pool US"
+  },
+  "ashby:n8n:dd44765f-279f-4aff-9568-11c7bc66189a": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Enterprise Sales Leader West Coast"
+  },
+  "ashby:n8n:896c58a8-0388-4037-b265-82b15633a568": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Senior Product Engineer (TS/NodeJS/Vue)"
+  },
+  "ashby:n8n:2e152f2d-165f-4a25-89f1-7a9a7ab561e6": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Senior Developer Advocate, US"
+  },
+  "ashby:n8n:7ab55fc3-dee1-4fe4-aa6f-8c71417850f6": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Senior Engineer I-II | Core Workflow Engine | Remote | Europe"
+  },
+  "ashby:n8n:9c2030d8-03a2-462f-a81e-dee9d24bf044": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Head of Accounting (Remote Europe or Hybrid Berlin/London)"
+  },
+  "ashby:n8n:f814f5ce-b615-413d-bbe0-b5786b3872e9": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "AI Engineering Manager | Remote | Europe "
+  },
+  "ashby:n8n:2c2023f0-cb2d-4c4b-9f03-9278f479a866": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Engineering Manager, Core Platform | Remote | Europe "
+  },
+  "ashby:n8n:443669df-8d0d-4169-929a-2f9cb293c6df": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Director of Engineering | Europe | Remote"
+  },
+  "ashby:n8n:3e2f40d9-5369-4830-8d77-542421e9b6a9": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Community Manager (West Coast US) "
+  },
+  "ashby:n8n:b36e40e4-19d8-4d7e-a9b2-bddc9a59a63e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Sr Cloud Engineer | Infrastructure & Networking | Europe remote"
+  },
+  "ashby:n8n:0a5380eb-dab4-4324-8869-8d81e19e5784": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Senior Support Engineer | Remote | US"
+  },
+  "ashby:n8n:e77c1fa5-1232-49a3-9db3-b291cd79006b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Senior Strategy & Operations Manager Manager – US (East Coast-based)"
+  },
+  "ashby:n8n:1c51921e-5a6d-4384-97da-6a1f282d3398": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Sales Development Leader"
+  },
+  "ashby:n8n:c0e4639b-2892-4aef-91d7-a57d8c9f96d2": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Sales Development Representative"
+  },
+  "ashby:n8n:7c4adbd2-5405-4c4a-960a-bd3ed0cacd3b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Senior/Staff Engineer, n8n Labs"
+  },
+  "ashby:n8n:b736bd76-4cf6-4214-8633-2ff032a2bc03": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Customer Success Manager - German Speaking (EMEA)"
+  },
+  "ashby:n8n:82554686-449f-4ef8-9bd5-0a71cf500a6c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Senior/Staff PM, n8n Labs"
+  },
+  "ashby:n8n:d4cd5955-7655-4feb-b6f3-ac4cf0867cd6": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Support Engineering Team Lead | Remote | US"
+  },
+  "ashby:n8n:dd8e10d7-81ce-4b03-8ce3-f32c3423f33e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Community Software Engineer | Remote | Europe"
+  },
+  "ashby:n8n:eee6e2dc-c565-4cef-adee-a054b59b1c28": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Head of Product Design"
+  },
+  "ashby:n8n:e34d0a51-253b-4ca0-96ec-f3685d0fad9e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Forward Deployed Engineering Lead"
+  },
+  "ashby:n8n:a4c599bf-0075-4d79-953c-34818935569a": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Sr Cloud Engineer | Infrastructure & Application Development | Europe remote"
+  },
+  "ashby:n8n:04d3fd30-8aef-4c25-bd56-2142b44f8224": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Technical Account Manager (Remote US)"
+  },
+  "ashby:n8n:062fa075-dbda-4bbf-b264-ac339d5ab9de": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Technical Account Manager (Remote Europe)"
+  },
+  "ashby:n8n:e68f03ff-9908-4705-aca1-aa67464a5a64": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Enterprise Account Executive"
+  },
+  "ashby:n8n:b66e3b56-3ef1-4ec6-b4b8-b4b779acb896": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "n8n",
+    "title": "Revenue Systems Manager"
+  },
+  "ashby:kittl:ecb09c53-def8-4d57-8dc5-1ebedfdf1073": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Kittl",
+    "title": "Engineering & Product Unsolicited Application (Berlin, hybrid)"
+  },
+  "ashby:kittl:e9ef12ad-59a4-4a41-8b38-d44545911c25": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Kittl",
+    "title": "Senior DevOps Engineer (Berlin, hybrid)"
+  },
+  "ashby:pleo:f54ebff7-3f7b-4205-918c-adefcc2b1226": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Senior Workplace Coordinator"
+  },
+  "ashby:pleo:f6484d9a-8a39-4ee4-bf24-e96fdb1fe309": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Customer Success Manager (Dutch speaking)"
+  },
+  "ashby:pleo:4b5086c6-b2d6-4fd5-85c0-5012c66e6f6f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Solution Engineer "
+  },
+  "ashby:pleo:2b02b272-cd9b-4229-a902-5aa7bad4fca8": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Account Executive UK/I "
+  },
+  "ashby:pleo:2f0467a6-9f42-4107-afbd-5134ef413a21": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "GTM Operations Manager (Sales Ops)"
+  },
+  "ashby:pleo:aeec6b9e-aaf8-4a3a-8434-6c2c29cc47f0": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Technical Support Senior Associate "
+  },
+  "ashby:pleo:a2f4e891-c190-4d96-bdf8-bc0dc3df3437": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Technical Support Senior Associate "
+  },
+  "ashby:pleo:762fbea5-8c28-4f94-a6e9-e14114451958": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Customer Success Manager SMB (German speaking)"
+  },
+  "ashby:pleo:b4e92b9e-3c46-44f8-ad28-8e430e254a44": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "RevOps Performance Analyst"
+  },
+  "ashby:pleo:669cb76f-772e-46cb-92a4-89c0a2cc69d8": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Technology Partner Manager"
+  },
+  "ashby:pleo:02a60f13-d4fe-414c-b7a9-67189a97b600": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Director, Product Marketing"
+  },
+  "ashby:pleo:86be45e5-ba03-43d7-8226-748193b1799c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Customer Success Manager - Sweden (Maternity Cover)"
+  },
+  "ashby:pleo:3182b71b-72a2-4c85-8fd1-baf04fd86dd3": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "SDR Manager"
+  },
+  "ashby:pleo:54fd7da2-af12-4890-b586-03aa1144ae3c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Solution Engineer"
+  },
+  "ashby:pleo:e0b18a2b-37e7-4170-81ab-f54d2e5c0ccf": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Senior SEO and Generative Search Manager"
+  },
+  "ashby:pleo:79d5b549-0f5a-4c90-abec-e17130c0d961": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "SDR - Lisbon - German Speaking"
+  },
+  "ashby:pleo:69d8a586-0205-474b-9190-e414c8f9a021": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Account Executive II DACH"
+  },
+  "ashby:pleo:1b02100b-80e8-466e-b576-58e95ed25673": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Solutions Engineer - Spanish Speaking"
+  },
+  "ashby:pleo:3c7dde36-a22f-4941-9a53-7fb9afc7f32a": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Customer Success Manager (German speaking)"
+  },
+  "ashby:pleo:94d49cfe-0eb0-4991-b195-2a37d2e01e1b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "GTM Enablement Manager"
+  },
+  "ashby:pleo:9434403c-8559-4240-8b39-f5dbcb965092": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Sales Development Representative - Dutch Speaking"
+  },
+  "ashby:pleo:dfaf04cb-950b-4843-a7eb-be36bccc65f4": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Customer Onboarding Manager- Spanish Speaking"
+  },
+  "ashby:pleo:6e0a41e5-09ad-4e54-afcb-4426c7a430b7": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Customer Onboarding Manager- Spanish Speaking"
+  },
+  "ashby:pleo:1e6affb5-eee7-43be-a387-aad87e01f75e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Strategic Program Manager - Support Quality, Training & Enablement"
+  },
+  "ashby:pleo:4554a29c-e01e-42a7-b5df-7df3ce5a10bb": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Manager, Quality Assurance"
+  },
+  "ashby:pleo:0a30babb-a60b-46f8-8e09-9bf1ecd904bd": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Strategic Programme Manager - Customer Experience"
+  },
+  "ashby:pleo:0651d6e0-422e-4f9c-9883-db8958d8d246": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "KYC Support Analyst"
+  },
+  "ashby:pleo:e2e5f1c2-3880-4e17-b822-00d2244e3598": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "KYC Support Analyst "
+  },
+  "ashby:pleo:53e879fd-10b0-42cf-9647-d623427c9b7a": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Sales Development Representative - UK & I "
+  },
+  "ashby:pleo:7082779d-013e-4c25-949f-1a57e29827e5": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Customer Support Senior Associate - Fraud Specialist"
+  },
+  "ashby:pleo:8695af5f-efd1-4770-be6e-6e95925088b6": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Pleo",
+    "title": "Account Manager - Nordics - Danish Speaking"
+  },
+  "ashby:deepsetai:64ae158e-76ed-43b9-8f19-d709bd2231ee": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "deepset",
+    "title": "Value Engineer"
+  },
+  "ashby:deepsetai:5001913f-8bd8-474c-93fa-c4a17a16bebc": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "deepset",
+    "title": "Site Reliability Engineer"
+  },
+  "ashby:deepsetai:4b3ac2c7-f963-42eb-8b0a-548eed9c82f3": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "deepset",
+    "title": "Growth Marketing Lead"
+  },
+  "ashby:leapsome:91a05a55-6fed-4580-a7da-84afd19e6eee": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "German speaking High-Velocity Account Executive (d/f/m)"
+  },
+  "ashby:leapsome:7e2bf373-dd0a-4246-b66a-521ad4887dfd": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "German speaking Performance Marketing Specialist (d/f/m)"
+  },
+  "ashby:leapsome:1d917e7f-bbd0-47a1-ba7b-44f5d2865923": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "German speaking Sales Lead DACH (d/f/m) "
+  },
+  "ashby:leapsome:c1a0f520-e4da-47ca-9302-03a8183d35b9": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "German speaking Paid Social & Search Specialist (d/f/m)"
+  },
+  "ashby:leapsome:7c8ed344-0f65-4196-a3a3-1dd693589a5d": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "Senior Test Automation Engineer/Software Development Engineer in Test (d/f/m)"
+  },
+  "ashby:leapsome:7e45cd19-ce37-446d-af79-b85e31cc196c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "Senior Engineering Manager (d/f/m) "
+  },
+  "ashby:leapsome:1cae3466-d9d0-469b-aa51-7c1ee20ff82f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "GTM Engineer (d/f/m)"
+  },
+  "ashby:leapsome:4e511eb0-e46e-42f3-9c24-8bb9d67170ab": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "German speaking Product Support Specialist (d/f/m) - Berlin based"
+  },
+  "ashby:leapsome:caf5897a-8c66-4feb-9428-26046436b3ac": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "Staff Product Engineer (d/f/m)"
+  },
+  "ashby:leapsome:c1220bd1-659f-422b-8951-d56bbc7d4311": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "German speaking Senior Content Marketing Manager (d/f/m)"
+  },
+  "ashby:leapsome:5a084ab8-c6ed-4eaf-9854-85fc0a45d504": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "Head of Growth Marketing and Lifecycle (NYC or Berlin) "
+  },
+  "ashby:leapsome:19760a50-c111-4dae-8fa3-ab15a4ac4290": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "Head of Growth Marketing and Lifecycle (d/m/f) NYC or Berlin "
+  },
+  "ashby:leapsome:81f2c9d2-317b-4d6a-9963-478f6efab328": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "High-Velocity Account Executive - North America"
+  },
+  "ashby:leapsome:bc45cba9-e5e8-46bc-8654-d55f9b5d4f7f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "German-speaking Customer Success Manager /Account Manager (m/f/d) -Mid-Market"
+  },
+  "ashby:leapsome:664d2fa1-cf64-4327-969c-3de2444fca4e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "German speaking Product Marketing Intern (d/f/m) "
+  },
+  "ashby:leapsome:816c6d31-e27a-4c00-b2e2-5c5189409d1b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "German-speaking Account Executive SMB EMEA (d/f/m) "
+  },
+  "ashby:leapsome:8be2b4fc-f5c2-400b-9759-bbad02084f5a": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Leapsome",
+    "title": "German-speaking Customer Onboarding Manager (d/f/m)"
+  },
+  "ashby:taxfix.com:d22dda5c-640b-4249-9eed-0d43d98823fc": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "Senior Software Engineer - FullStack (d/f/m)"
+  },
+  "ashby:taxfix.com:396b75dd-a3f6-4b90-95c7-595a270358c2": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "Director of Operational Finance (d/f/m)"
+  },
+  "ashby:taxfix.com:f0f321ba-6b26-40e0-9fb9-a68f71e57a47": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "Automation Engineer, Working Student (d/f/m)"
+  },
+  "ashby:taxfix.com:73057496-4721-41ee-b79a-55e67755ee58": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "Senior Marketing Scientist (d/f/m)"
+  },
+  "ashby:taxfix.com:bae7e102-b794-4ea0-a67c-f2f6141b08c6": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "Associate Engineering Manager - Security (d/f/m)"
+  },
+  "ashby:taxfix.com:942ab89b-5ce9-4485-b730-45b65150041f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "(Senior) Software Engineer – Backend (d/f/m)"
+  },
+  "ashby:taxfix.com:6ac8cbba-b77f-4d43-8d48-e73d5d19b13d": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "(Senior) Fullstack Engineer - Stuttgart (d/f/m)"
+  },
+  "ashby:taxfix.com:4f8c7971-3511-49ec-ad7b-148b8ebfb566": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "(Senior) Software Engineer - Backend (d/f/m)"
+  },
+  "ashby:taxfix.com:96724921-2c67-4285-ab84-9ddff05429c9": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "Senior Data Platform Engineer (d/f/m)"
+  },
+  "ashby:taxfix.com:22aa0f4a-0421-4674-86ad-aba4bbef10e4": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "Senior Accountant, Collections & AR (d/f/m)"
+  },
+  "ashby:taxfix.com:f1186b52-9141-48cb-a9d8-ff63f7022440": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "Director of IT & Infrastructure (d/f/m)"
+  },
+  "ashby:taxfix.com:a093d962-f134-498c-a674-b4e1cf1d5054": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "Associate Engineering Manager - Security (d/f/m)"
+  },
+  "ashby:taxfix.com:53559c5d-c661-4eb6-b455-eee2bb066b09": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "Business Operations Intern (d/f/m)"
+  },
+  "ashby:taxfix.com:244257bd-bdcc-4be9-98f9-e8f3a9f57b83": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "Content Engineer (d/f/m)"
+  },
+  "ashby:taxfix.com:0c8bdf56-865a-4311-b32e-fc16da9b0eae": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "Content Automation Engineer (d/f/m)"
+  },
+  "ashby:taxfix.com:7034b31a-c774-4bdb-b773-230af0030949": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "AI First Builder (Product Management)"
+  },
+  "ashby:taxfix.com:aef26f08-8400-40e0-b739-5284c2a8b9aa": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Taxfix",
+    "title": "AI First Builder (Design)"
+  },
+  "ashby:hawk:15c4746d-9be3-4038-b180-5a2919f19fd1": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Senior Content Manager"
+  },
+  "ashby:hawk:1df16a30-c9d2-4c0e-8ebf-9377ceec11fb": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Senior Fullstack Java Developer"
+  },
+  "ashby:hawk:f4dd48a3-da67-4e2d-9090-d3e2409c0a17": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Senior Pre-Sales Consultant - German Speaking"
+  },
+  "ashby:hawk:11a4b2c1-1ae6-4d52-a66c-a0a4b7d5ddac": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Solution Architect (German Speaking)"
+  },
+  "ashby:hawk:72b99407-040a-4154-b565-e026512fe88d": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Legal - Working Student"
+  },
+  "ashby:hawk:f6761564-392a-4047-bd24-838274d8c907": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "(Senior) Information Security Officer (German)"
+  },
+  "ashby:hawk:e87cd1e9-1032-445d-8671-5a17ed0a893f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Implementation Consultant"
+  },
+  "ashby:hawk:daafe5d7-1b35-43db-a3ed-030067054b20": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Senior UX/UI Engineer (Agentic AI) "
+  },
+  "ashby:hawk:833c4d09-709b-41f3-a71d-1d258fc8acf9": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Support Analyst (German Speaking)"
+  },
+  "ashby:hawk:19b86c8c-4023-4d5e-b7f6-a94f6eb41dfe": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Customer Cloud Engineer"
+  },
+  "ashby:hawk:b850bd68-1ac9-44fa-af93-45e5fc85bafa": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Senior Full Stack Engineer (Agentic AI)"
+  },
+  "ashby:hawk:0834a095-2ff2-47d5-adf1-7606169edb63": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Working Student - Talent Acquisition"
+  },
+  "ashby:hawk:80ce52a2-521b-4f50-ba3d-bcd251f3068d": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Senior GenAI Engineer"
+  },
+  "ashby:hawk:551cc894-3f29-4051-9dca-04b9fed1f86b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Working student - AI Workflow Builder"
+  },
+  "ashby:hawk:309100a9-9d36-4544-a6b7-bacb18581c1d": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Chief of Staff"
+  },
+  "ashby:hawk:ff24e7f3-080b-47f7-b6c6-79cb462f3fbd": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Customer Operations Manager"
+  },
+  "ashby:hawk:dade1a2c-183e-435a-abec-41292c9b0a3f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Hawk",
+    "title": "Customer Operations Manager"
+  },
+  "ashby:camunda:89fb70ec-afbe-475b-a5d8-c2268ee4d7fd": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Account Development Representative - Future Openings Talent Pool"
+  },
+  "ashby:camunda:8e48fc26-68f2-4754-bfff-c29a100dfe90": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Post Sales Engineer - North America"
+  },
+  "ashby:camunda:5652a3f3-e418-4e91-b58b-4be13f36853b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Product Manager, Self Managed Service "
+  },
+  "ashby:camunda:6dc3e202-a9a5-4899-a418-aed15d8d4ad5": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior Technical Productivity Manager "
+  },
+  "ashby:camunda:ec4d8375-f0c8-489d-a51d-551bb8e9a974": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Corporate Account Executive - Public Sector DACH"
+  },
+  "ashby:camunda:448fb5e4-ed11-49a1-b389-4feb98cf26f7": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Copywriter"
+  },
+  "ashby:camunda:6b2c31f3-11f6-40e6-92a5-e75b825dc9f4": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior Sales Engineer - Singapore"
+  },
+  "ashby:camunda:f14d1199-d22c-4be9-8b57-56cad2fc1247": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Technical Account Manager - UK"
+  },
+  "ashby:camunda:8d53895b-6327-452a-8960-9751712d6e1e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior Customer Success Manager - UK"
+  },
+  "ashby:camunda:374ab2cf-206a-4587-9415-700d52f60690": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior Information Security Engineer - Application Security"
+  },
+  "ashby:camunda:b771e145-a5cf-4867-ad13-b54830e3b744": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior Product Manager - Core Platform (Remote)"
+  },
+  "ashby:camunda:84c95da3-cbc6-4d59-85eb-90f882e14e4b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior Director, Accounting & Controlling "
+  },
+  "ashby:camunda:ae9745e1-599f-4f66-bb90-0c2236124c48": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior GL Accountant"
+  },
+  "ashby:camunda:168aaa0b-6e11-432d-8381-43a4f7c99a71": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Technical Account Manager - East Coast North America"
+  },
+  "ashby:camunda:79980213-ee2c-41a0-bbab-4fcf6e312745": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior Customer Success Manager - France"
+  },
+  "ashby:camunda:3d4b6ba7-8205-43f2-a6ff-a458068999b0": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior Sales Engineer - UKI/Benelux"
+  },
+  "ashby:camunda:ce63e37f-dfe2-42cf-a842-36b9f40cac74": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Enterprise Account Executive - BeLux"
+  },
+  "ashby:camunda:2e0796be-d4d7-4c92-8484-357a7107a252": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior Customer Success Manager - North America"
+  },
+  "ashby:camunda:e1219218-2565-4dae-9c0e-888602b1cfca": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior Partner Marketing Manager "
+  },
+  "ashby:camunda:f5814a5b-2070-4072-b1c5-533ad198f318": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Sales Engineer- MEA"
+  },
+  "ashby:camunda:dd3b0b65-d6be-4a4a-bc60-fd9c4c2077dd": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior Customer Success Manager "
+  },
+  "ashby:camunda:643a1994-7c85-4cc6-bd21-45ce22f0bce7": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Field Marketing Manager - North America"
+  },
+  "ashby:camunda:d7cf6c14-e8de-406c-9eef-9c77664eed53": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Customer Success Strategist"
+  },
+  "ashby:camunda:1398a476-4160-48df-8b19-ee7977f2eaa2": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Technical Account Manager "
+  },
+  "ashby:camunda:4185ee26-35a1-42f2-971b-51106f2fd58e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior Product Operations Manager"
+  },
+  "ashby:camunda:155e2fbf-e2f8-45be-b086-a3373e90c599": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Technical Account Manager - Poland"
+  },
+  "ashby:camunda:5c194367-ef3b-49e6-8dac-7feba555915c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Technical Account Manager - DACH"
+  },
+  "ashby:camunda:987fb6e0-1e22-45e5-b152-57acbcb59cb2": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "AI Process Forward Deployed Engineer"
+  },
+  "ashby:camunda:b2bb1534-950c-4e71-a351-7a64c4c0ac2d": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Technical Account Manager"
+  },
+  "ashby:camunda:21754393-b3fe-4c14-b18d-4cd13fffa140": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Manager, Cloud Infrastructure Engineering"
+  },
+  "ashby:camunda:a38d4183-35d5-4abd-a7a7-9d357601db1c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior Technical Delivery Lead"
+  },
+  "ashby:camunda:734302a5-a795-4251-bb0f-48fa33199270": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior Software Engineer, Kubernetes"
+  },
+  "ashby:camunda:70dd5300-1dd7-4bc7-b6c1-cba73a7697e5": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Account Development Representative I - DACH"
+  },
+  "ashby:camunda:d2b301bc-ec29-46e7-baf0-7e68b6c4b1e2": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Camunda",
+    "title": "Senior UX Researcher"
+  },
+  "ashby:AlephAlpha:2faca6ec-69bd-4e04-b055-05f24ddf0f4d": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Aleph Alpha",
+    "title": "Senior AI R&D Engineer - Performance - Pre-training (f/m/d)"
+  },
+  "ashby:AlephAlpha:af5ac8a9-31a7-4017-9cd9-0a8b360ad937": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Aleph Alpha",
+    "title": "Senior AI R&D Engineer – Pre-training Data (f/m/d) "
+  },
+  "ashby:AlephAlpha:ed326a0a-1cab-425a-b9c1-ae617d6d1cce": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Aleph Alpha",
+    "title": "Senior AI Researcher- Reinforcement learning (f/m/d)"
+  },
+  "ashby:AlephAlpha:0628691f-7d3e-416d-9358-3b55859e1bbb": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Aleph Alpha",
+    "title": "Senior AI Researcher - Pre-training Data (m/f/d)"
+  },
+  "ashby:AlephAlpha:2d78e7c6-3764-482e-9d29-d0cb064429cc": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Aleph Alpha",
+    "title": "Senior Executive Assistant (f/m/d) to Co-CRO "
+  },
+  "ashby:AlephAlpha:78a651b2-f5d2-43fb-b083-6c819ae3f0f6": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Aleph Alpha",
+    "title": "IT Support Engineer (f/m/d)"
+  },
+  "ashby:AlephAlpha:80dc6ee6-dece-4d4b-9906-ea930338f245": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Aleph Alpha",
+    "title": "Senior AI Researcher- Pre-training (f/m/d)"
+  },
+  "ashby:AlephAlpha:1963147c-dc27-416e-b432-065295733bef": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Aleph Alpha",
+    "title": "Senior AI R&D Engineer- Model Evaluation (f/m/d/)  "
+  },
+  "ashby:AlephAlpha:0ed0c9ef-8e9f-4161-80e6-55fc95c93736": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Aleph Alpha",
+    "title": "Senior AI Software Engineer – Model Training  (f/m/d)"
+  },
+  "ashby:AlephAlpha:2a4a86a2-6169-4597-a40e-6c27f6a0a45d": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Aleph Alpha",
+    "title": "Talent Acquisition Manager (Maternity cover) (f/m/d)"
+  },
+  "ashby:billie:91765ca2-a722-4899-8018-3f56d414c191": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Billie",
+    "title": "Lead Credit Risk Data Scientist"
+  },
+  "ashby:billie:071824a1-5908-465c-922d-47e663fbd656": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Billie",
+    "title": "Fraud Data Scientist"
+  },
+  "greenhouse:parloa:4635890101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Business Development Representative"
+  },
+  "greenhouse:parloa:4858426101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Business Development Representative (France)"
+  },
+  "greenhouse:parloa:4889900101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "CEO Office Associate"
+  },
+  "greenhouse:parloa:4872514101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Corporate Events Manager"
+  },
+  "greenhouse:parloa:4794825101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Deployment Strategist - US"
+  },
+  "greenhouse:parloa:4809098101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Director Of Security Engineering "
+  },
+  "greenhouse:parloa:4890339101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Engineering Manager, Infrastructure Platform"
+  },
+  "greenhouse:parloa:4902605101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Enterprise Account Executive - Austria"
+  },
+  "greenhouse:parloa:4793846101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Enterprise Account Executive - Turkey"
+  },
+  "greenhouse:parloa:4825368101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "GSI Partnerships Manager "
+  },
+  "greenhouse:parloa:4843556101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "GTM Engineer"
+  },
+  "greenhouse:parloa:4866190101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Lead Agent Architect - SAP"
+  },
+  "greenhouse:parloa:4566280101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Lead AI Agent Architect"
+  },
+  "greenhouse:parloa:4867326101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Marketing Development Representative "
+  },
+  "greenhouse:parloa:4694390101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Operations Manager,  Solution Engineering & Services"
+  },
+  "greenhouse:parloa:4861871101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Principal Applied Scientist"
+  },
+  "greenhouse:parloa:4828560101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Principal Product Marketing Manager"
+  },
+  "greenhouse:parloa:4866252101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "SAP Agent Architect "
+  },
+  "greenhouse:parloa:4873115101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "SAP Integration Engineer"
+  },
+  "greenhouse:parloa:4866214101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "SAP Integration Engineer - US"
+  },
+  "greenhouse:parloa:4871790101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior Agent Architect"
+  },
+  "greenhouse:parloa:4903164101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior Agent Architect (France)"
+  },
+  "greenhouse:parloa:4903168101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": " Senior Agent Architect (Italy)"
+  },
+  "greenhouse:parloa:4874171101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior Agent Architect - Partner Success "
+  },
+  "greenhouse:parloa:4903167101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior Agent Architect (Spain)"
+  },
+  "greenhouse:parloa:4802720101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior Backend Engineer"
+  },
+  "greenhouse:parloa:4843389101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior Data Engineer - Internal Platform"
+  },
+  "greenhouse:parloa:4776679101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior Enterprise Engagement Manager"
+  },
+  "greenhouse:parloa:4877922101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior Enterprise Engagement Manager - UK"
+  },
+  "greenhouse:parloa:4906262101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior Forward Deployed Engineer (France)"
+  },
+  "greenhouse:parloa:4906263101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior Forward Deployed Engineer (Spain)"
+  },
+  "greenhouse:parloa:4772636101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior IS&T Governance Partner"
+  },
+  "greenhouse:parloa:4604587101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior/Lead Forward Deployed Engineer - US"
+  },
+  "greenhouse:parloa:4845313101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior Partner Solution Engineer - UK"
+  },
+  "greenhouse:parloa:4903064101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior Product Marketing Manager"
+  },
+  "greenhouse:parloa:4809399101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior Strategic Engagement Manager"
+  },
+  "greenhouse:parloa:4719998101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "(Senior) Technical Program Manager - Agentic AI Deployments"
+  },
+  "greenhouse:parloa:4903169101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "(Senior) Technical Program Manager (France)"
+  },
+  "greenhouse:parloa:4903170101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "(Senior) Technical Program Manager (Italy)"
+  },
+  "greenhouse:parloa:4688149101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Senior Value Consultant"
+  },
+  "greenhouse:parloa:4897511101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Sr. Brand Designer "
+  },
+  "greenhouse:parloa:4897497101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Sr. Brand Designer "
+  },
+  "greenhouse:parloa:4885192101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Sr Partner Solution Engineer "
+  },
+  "greenhouse:parloa:4877859101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Sr Partner Success Manager"
+  },
+  "greenhouse:parloa:4877851101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Sr Partner Success Manager"
+  },
+  "greenhouse:parloa:4877821101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Sr Technical Program Manager"
+  },
+  "greenhouse:parloa:4905779101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Sr Technical Program Manager (UK)"
+  },
+  "greenhouse:parloa:4905260101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Staff/Principal Product Manager, Infrastructure Platform"
+  },
+  "greenhouse:parloa:4679089101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Staff Product Designer - Consumer Experience"
+  },
+  "greenhouse:parloa:4716871101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Staff Product Designer - Expert Experience"
+  },
+  "greenhouse:parloa:4843927101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Team Lead, Business Development "
+  },
+  "greenhouse:parloa:4906177101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Team Lead Forward Deployed Engineering"
+  },
+  "greenhouse:parloa:4877824101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Technical Program Manager"
+  },
+  "greenhouse:parloa:4904390101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "US Senior Talent Acquisition Partner"
+  },
+  "greenhouse:parloa:4904498101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Parloa",
+    "title": "Working Student - AI Agent Architecture "
+  },
+  "greenhouse:raisin:4725361101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Conversion Optimization Expert Web/App (f/m/d)"
+  },
+  "greenhouse:raisin:4757243101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Customer Service Agent"
+  },
+  "greenhouse:raisin:4787577101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Director of Brand Marketing (m/f/d)"
+  },
+  "greenhouse:raisin:4875032101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Director of IT Security (m/f/d)"
+  },
+  "greenhouse:raisin:4845620101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Engineering Lead - Customer Accounting Team (m/f/d)"
+  },
+  "greenhouse:raisin:4816570101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Engineering Lead - Customer Engagement Team (m/f/d)"
+  },
+  "greenhouse:raisin:4725229101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Engineering Lead – Frontend & Mobile Platform (m/f/d)"
+  },
+  "greenhouse:raisin:4725275101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Engineering Lead – KYC Domain (m/f/d)"
+  },
+  "greenhouse:raisin:4805712101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Enterprise IT Services Engineer (f/m/d)"
+  },
+  "greenhouse:raisin:4860763101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "General Counsel (US)"
+  },
+  "greenhouse:raisin:4883830101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Growth Manager B2C DACH (m/f/d)"
+  },
+  "greenhouse:raisin:4773757101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Head of CRM & Customer Analytics (US) "
+  },
+  "greenhouse:raisin:4770228101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Head of Fraud & Risk Management Operations "
+  },
+  "greenhouse:raisin:4835874101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Head of Relationship Management (m/f/d)"
+  },
+  "greenhouse:raisin:4889924101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Intern Communications & PR - German speaking (m/f/d)"
+  },
+  "greenhouse:raisin:4884939101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Junior Customer Marketing Manager (m/f/d) "
+  },
+  "greenhouse:raisin:4882293101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Junior Partnerships Manager DACH (m/f/d)"
+  },
+  "greenhouse:raisin:4849721101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "(Junior) Privacy Manager (m/f/d)"
+  },
+  "greenhouse:raisin:4871004101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "(Junior) Third Party Control & Process Manager (m/f/d)"
+  },
+  "greenhouse:raisin:4882295101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Junior Third Party Risk Manager (m/f/d)"
+  },
+  "greenhouse:raisin:4826582101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Money Laundering Reporting Officer (f/m/d)"
+  },
+  "greenhouse:raisin:4885362101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Office Manager (US)"
+  },
+  "greenhouse:raisin:4843649101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Payroll Specialist (f/m/d)"
+  },
+  "greenhouse:raisin:4901686101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "People Application Manager (m/f/d)"
+  },
+  "greenhouse:raisin:4727857101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Product Manager – US B2C Experience (m/f/d)"
+  },
+  "greenhouse:raisin:4848298101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Propositions Manager"
+  },
+  "greenhouse:raisin:4722893101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Raisin Talent Pool"
+  },
+  "greenhouse:raisin:4863206101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Senior AFC Operations Manager (m/f/d)"
+  },
+  "greenhouse:raisin:4874087101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Senior Data Analyst - Fraud Strategy & Operations"
+  },
+  "greenhouse:raisin:4873001101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Senior Fraud Strategy and Analytics Manager"
+  },
+  "greenhouse:raisin:4863919101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "(Senior) ICT Risk Manager (f/m/d)"
+  },
+  "greenhouse:raisin:4865853101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "(Senior) ICT Risk Manager (f/m/d) "
+  },
+  "greenhouse:raisin:4903287101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Senior Investment Manager (m/f/d)"
+  },
+  "greenhouse:raisin:4856165101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Senior Operations Manager – Third Party Risk and Resilience (m/f/d)"
+  },
+  "greenhouse:raisin:4728489101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Senior Partnerships Manager DACH (m/f/d)"
+  },
+  "greenhouse:raisin:4750885101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "(Senior) Payments Manager (f/m/d)"
+  },
+  "greenhouse:raisin:4895019101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Senior Product Manager - US B2C Experience (m/f/d)"
+  },
+  "greenhouse:raisin:4882546101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "(Senior) Quantitative Risk Controller (f/m/d)"
+  },
+  "greenhouse:raisin:4846464101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Senior Risk Controller (f/m/d)"
+  },
+  "greenhouse:raisin:4802119101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Working Student Frontend Engineer (m/f/d)"
+  },
+  "greenhouse:raisin:4784815101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Raisin",
+    "title": "Working Student Software Engineer (f/m/d)"
+  },
+  "personio:merantix-momentum:2526453": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Merantix Momentum",
+    "title": "AI Product Owner (m/f/d)"
+  },
+  "personio:merantix-momentum:2670242": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Merantix Momentum",
+    "title": "Client Partner (m/f/d)"
+  },
+  "personio:merantix-momentum:2659479": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Merantix Momentum",
+    "title": "Client Partner for Industrial AI & Manufacturing (m/w/d)"
+  },
+  "personio:merantix-momentum:2471725": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Merantix Momentum",
+    "title": "Machine Learning Engineer - Talent Pool (m/f/d)"
+  },
+  "personio:merantix-momentum:2633307": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Merantix Momentum",
+    "title": "Senior AI Full Stack Engineer (m/f/d)"
+  },
+  "personio:merantix-momentum:2607287": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Merantix Momentum",
+    "title": "Senior AI Platform Engineer (m/f/d)"
+  },
+  "personio:merantix-momentum:2645635": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Merantix Momentum",
+    "title": "Senior AI Solution Architect (m/f/d)"
+  },
+  "personio:merantix-momentum:2635696": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Merantix Momentum",
+    "title": "Senior AI Transformation Consultant"
+  },
+  "personio:merantix-momentum:2553114": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Merantix Momentum",
+    "title": "VP Operations (m/f/d)"
+  },
+  "personio:merantix-momentum:2633368": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Merantix Momentum",
+    "title": "Working Student AI Full Stack Engineer (m/f/d)"
+  },
+  "personio:merantix-momentum:2530025": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Merantix Momentum",
+    "title": "Working Student AI Platform Engineer (m/f/d)"
+  },
+  "personio:everphone:2635677": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Everphone",
+    "title": "(Junior) Chief of Staff (w/m/d)"
+  },
+  "personio:everphone:2620024": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Everphone",
+    "title": "(Junior) COO Associate"
+  },
+  "personio:everphone:1869590": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Everphone",
+    "title": "(Junior) Project Manager - Premium Clients (m/w/d)"
+  },
+  "personio:everphone:2019718": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Everphone",
+    "title": "Account Executive (w/m/d)"
+  },
+  "personio:everphone:2575262": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Everphone",
+    "title": "Mobile Device Management Administrator (w/m/d)"
+  },
+  "personio:everphone:1794417": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Everphone",
+    "title": "Praktikant*in - Business Development (w/m/d)"
+  },
+  "personio:everphone:2459052": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Everphone",
+    "title": "Sales Development Representative (w/m/d)"
+  },
+  "personio-careers:8972aa6b-1b14-498e-94d2-edc83d144e63": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Account Executive DACH, New Logo - Medium Business (d/f/m)"
+  },
+  "personio-careers:8bf23853-bc5c-4151-9d2a-0d568faf8371": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Account Executive (d/f/m) - New Logo .ORG"
+  },
+  "personio-careers:3f29e7d5-72dc-4cb3-9e01-2f1c0de9e52e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Account Executive - Existing Business (DACH) (d/f/m)"
+  },
+  "personio-careers:f0f38d54-6249-4ccb-97eb-ad32e136c94c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Account Executive - Payroll Product (DACH) (d/f/m)"
+  },
+  "personio-careers:9651cd5e-2f16-4790-9ef3-aaea9ed74852": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Account Manager - Mid Market DACH (d/f/m)"
+  },
+  "personio-careers:aa461ac9-469f-468f-b7da-222ed8f2c7e4": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Associate Account Manager - DACH (d/f/m)"
+  },
+  "personio-careers:18d3cbd4-1559-4200-ae51-88bf859fe7e3": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "(Associate)Account Manager - Medium Business DACH (d/f/m)"
+  },
+  "personio-careers:bf376d1a-5a8f-4340-864b-70fd0ce39b43": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Associate Customer Integration Specialist (d/f/m) - German Speaking "
+  },
+  "personio-careers:4403ab62-af38-408a-9d26-866506620b2f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Associate Implementation Specialist (d/f/m) - German Speaking "
+  },
+  "personio-careers:727c5f86-d0f7-4e28-9822-831b14b483aa": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Associate Premium Support Specialist - German Speaking (d/f/m)"
+  },
+  "personio-careers:aeee7711-67e3-42ef-8597-d3a81ce2cb27": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Associate Product Marketing Manager, Rotational (d/f/m)"
+  },
+  "personio-careers:bc557a8b-26a7-46e9-8453-5ef5c2e51129": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Atlassian Platform Engineer (d/f/m)"
+  },
+  "personio-careers:8f948c99-4627-4475-9353-6f5cc8010593": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Business Development Representative (d/f/m)"
+  },
+  "personio-careers:983ff47d-d4d9-4b36-92ee-b92cfa7e0705": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Business Development Representative I SaaS (d/f/m)"
+  },
+  "personio-careers:b0f464d0-8002-45d6-ae4a-5c41fb6cc37b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Business Development Representative -Switzerland (d/f/m)"
+  },
+  "personio-careers:ebc1d4c0-7a46-4877-9818-b1a4ea457ddf": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Collaboration Systems Automation & Integration Engineer (d/f/m)"
+  },
+  "personio-careers:652c001c-4833-4d3e-827d-05a37e89ad36": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Collaboration Systems Engineer (d/f/m)"
+  },
+  "personio-careers:b6ed74fe-1adc-4547-b663-5f91e2ef4707": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Country Sales Manager, BeNeLux (d/f/m)"
+  },
+  "personio-careers:7882cb1e-6401-4b5b-9705-8312c4f34e0c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Customer API Integration Specialist (d/f/m) - German Speaker"
+  },
+  "personio-careers:de4a8964-33d5-4011-b1c5-d93d1543b079": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Customer Implementation Specialist (d/f/m) - German Speaking"
+  },
+  "personio-careers:2790af4e-c94b-4621-b289-6674e6341c30": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Customer Implementation Specialist (d/f/m) - German Speaking (12 months Fixed Term)"
+  },
+  "personio-careers:8951426a-df9d-48f2-a403-b39a54e362f3": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Customer Integration Specialist (d/f/m) - German Speaking "
+  },
+  "personio-careers:b5beea87-6f54-4567-9053-c594c73cc48f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Customer Onboarding Specialist (d/f/m) - German Speaking"
+  },
+  "personio-careers:a2e419ed-1e83-4d6b-afa4-817b8dfe5f07": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Customer Onboarding Specialist (d/f/m) - German Speaking (12 months Fixed Term)"
+  },
+  "personio-careers:39cc883c-1db2-4f5c-8f81-23b2848059c1": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Design Engineer, Product (Senior/Staff) (d/f/m)"
+  },
+  "personio-careers:de55d8bc-39d8-4ecc-a7a8-6bb60ae179c7": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Employee Relations Partner (d/f/m)"
+  },
+  "personio-careers:d3cee04b-049d-4a66-8f0e-83cc8c620fb9": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Enablement Specialist GTM (d/f/m)"
+  },
+  "personio-careers:4d42a75c-3a70-43b8-942a-abf5de4bfa78": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Engineering Manager - Developer Experience (Java/Kotlin) - (d/f/m)"
+  },
+  "personio-careers:47058ee1-8f4b-40d1-aa47-a6a5e6c0492d": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Engineering Manager (L6), Organisation Management - Munich - (d/f/m)"
+  },
+  "personio-careers:ff96d900-eea2-46a1-b0fc-cc6fce765187": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Engineering Manager (L6), Recruiting (d/f/m)"
+  },
+  "personio-careers:c6fde5da-d52d-4138-a652-fd526f7f5a66": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Engineering Manager - Time"
+  },
+  "personio-careers:caedd453-7566-486c-95bd-1958667e1f27": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Expansion Business Development Representative (d/f/m)"
+  },
+  "personio-careers:557f8258-9686-4851-86e7-69b49ac526d7": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Implementation Specialist (d/f/m) - German Speaking "
+  },
+  "personio-careers:246708f4-984a-4d26-bf28-6d2c916331c8": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Implementation Specialist (d/f/m) - German Speaking (12 months Fixed Term)"
+  },
+  "personio-careers:8482a3aa-e16b-4461-b864-193ad035c804": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Integrated Campaigns Manager (d/f/m)"
+  },
+  "personio-careers:4e83f675-51ee-402c-8bd0-3cd5059c4bb5": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Intern Account Management (d/f/m) "
+  },
+  "personio-careers:a166ddd3-b76f-4d92-8b52-05a450ed392c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Lead Account Executives (Payroll) (d/f/m)"
+  },
+  "personio-careers:7ea83e1a-4a61-44e8-9c95-d2588b876116": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Lead Account Management and Customer Success Benelux"
+  },
+  "personio-careers:bd347a9d-bddc-4a17-bf91-e08cdad63923": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Lead Backend Engineer"
+  },
+  "personio-careers:5f93db97-3a42-4ea7-b6bc-1987988bb92a": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Lead Payroll Sales (d/f/m)"
+  },
+  "personio-careers:11307d6d-4d99-497d-a659-04dd1adc95cd": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Lead Software Engineer (Back-end) – EO Workflows (d/f/m)"
+  },
+  "personio-careers:8fff5259-a3f9-4842-b346-978278909c63": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Manager, Account Executives, Mid Market, DACH (d/f/m) "
+  },
+  "personio-careers:4b512067-e10e-4ed4-97b8-934db8c2355c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Manager, Talent Acquisition - Tech"
+  },
+  "personio-careers:61458f4e-1e57-4c9b-91d3-012dfc48788e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Manager, Talent Acquisition - Tech (Relocation to Munich)"
+  },
+  "personio-careers:97f43fec-9640-433e-bee7-087dac4ce7ed": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Partner Manager - Benelux (d/f/m)"
+  },
+  "personio-careers:514c8637-ad4d-4849-9405-266e9a292f8a": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Partner Program Manager (Support & Operations) (d/f/m)"
+  },
+  "personio-careers:8b374bce-4251-4cc4-906b-a1efd7dc59b2": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Payroll Implementation Associate (d/f/m)"
+  },
+  "personio-careers:3f9b2835-01e5-4ce4-9242-8a5c34a5e01c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Payroll Sales Manager (DACH) (d/f/m)"
+  },
+  "personio-careers:44befd30-9bc6-4186-9f36-cc3e243f2ab7": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Payroll Support Lead (d/f/m)"
+  },
+  "personio-careers:e46f4d5b-4f73-4f1e-a3f8-0d5097480f60": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Payroll Support Specialist (d/f/m)"
+  },
+  "personio-careers:e7160437-fb63-45e7-807c-438753dc40cd": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "People Business Partner (d/f/m)"
+  },
+  "personio-careers:bcfda08b-bd5d-4f94-bff3-16ec5ebbd70f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Privacy Operations Manager"
+  },
+  "personio-careers:2c81daec-7950-46ee-81ff-d896b001c75a": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Product Designer (Senior/Staff) (d/f/m)"
+  },
+  "personio-careers:550360ee-91af-4394-ab39-f33e2fd97e0b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Revenue Operations Manager (Compensation team) (f/m/x)"
+  },
+  "personio-careers:5663cd2f-1a88-4655-ad6a-69f019a11dd0": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Sales Leadership Talent Pool - DACH (d/f/m)"
+  },
+  "personio-careers:c20e154d-8b28-462f-ba3f-e8ea51488158": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Sales Talent Pool - DACH (d/f/m)"
+  },
+  "personio-careers:ffc0bdc3-41b8-41d1-a436-365e2e5e305f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "(Senior) Account Manager - Mid Market DACH (d/f/m)"
+  },
+  "personio-careers:6a75259f-9cd8-4b33-923d-77abf88a0c15": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Analyst — People & Workforce Intelligence (PWI) (d/f/m)"
+  },
+  "personio-careers:4081521e-d250-43d5-a9ad-45db995af101": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Business Automation Specialist (d/f/m) "
+  },
+  "personio-careers:c264ac5a-fb05-41ca-bd29-729bb99377d5": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Business Manager (d/f/m) - Professional Services"
+  },
+  "personio-careers:e44edf95-50cd-4681-b229-3e9ebc8b38e1": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Customer Automation Specialist (d/f/m)"
+  },
+  "personio-careers:5ab0692e-75a8-46fb-a6b5-e57176913f59": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Customer Onboarding Specialist (d/f/m) - German Speaking"
+  },
+  "personio-careers:b23c7d29-53c1-4454-8a9b-2255b89629c0": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Customer Resolution Manager (d/f/m)"
+  },
+  "personio-careers:97a07d2d-6613-4760-94cc-70393d0aa7df": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior CX Enablement Specialist (d/f/m)"
+  },
+  "personio-careers:36dbb092-101b-494a-b136-facd471345da": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Design Engineer (AI-Accelerated) (d/f/m)"
+  },
+  "personio-careers:72a2193d-296b-4ee9-8b30-f5f69353e5e2": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Digital Designer – Web (d/f/m)"
+  },
+  "personio-careers:a89a2744-ba9d-45c4-82b0-65ac81d3a507": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Enablement Architect (d/f/m)"
+  },
+  "personio-careers:d87ec69a-f0d7-4d2b-9242-f05d8fe987e0": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior FullStack Engineer - Munich - Payroll Experience team (d/f/m)"
+  },
+  "personio-careers:077bb219-285e-40cc-9d33-85c2a93e68a2": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior GTM Engineer (RevOps) (f/m/x)"
+  },
+  "personio-careers:6d9f8b59-2292-4c8a-9d1d-ce837a933054": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Implementation Specialist (d/f/m) - German Speaking"
+  },
+  "personio-careers:916f83e7-4898-4fdc-abb4-1d655115bf60": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Partner Enablement Specialist (d/f/m)"
+  },
+  "personio-careers:1b01f065-9c6c-45a7-a2af-bb5ab9140b67": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Partnership Manager DACH (d/f/m)"
+  },
+  "personio-careers:0cdfd6d5-2f82-4531-84e9-21fb2d1f8959": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "(Senior) Payroll Expert - Presales (f/m/x)"
+  },
+  "personio-careers:63df43d4-4e03-4408-8e91-437f4fe844ac": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "(Senior) Payroll Implementation Specialist (d/f/m)"
+  },
+  "personio-careers:c00174e8-354e-4166-b080-b3b640e65760": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "(Senior) Payroll Implementation Spezialist (m/w/d) "
+  },
+  "personio-careers:0aff404b-3188-479f-9cd5-e25e2863b95b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "(Senior) Payroll Support Spezialist (m/w/d)"
+  },
+  "personio-careers:14f8cbc7-055c-4519-84bb-67dd40f2557f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Platform Engineer - Developer Experience (d/f/m)"
+  },
+  "personio-careers:6bcf9a5e-83be-463b-bef2-46c7d1e3c428": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": " Senior Product Compliance Expert - Payroll (d/f/m)"
+  },
+  "personio-careers:47fdaf5b-eb98-409e-8232-5a5e7c67cdba": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Product Manager (d/f/m)"
+  },
+  "personio-careers:31ca327b-993c-4a6d-b8a8-95adfde021be": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": " Senior Security Compliance Analyst (f/m/d)"
+  },
+  "personio-careers:fd05e1ba-328f-4340-8335-a26157cfc13e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "(Senior) Service Recovery Manager (d/f/m) - German Speaking"
+  },
+  "personio-careers:256c9c42-b3a6-429a-a836-316ad8616bb6": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Software Engineer - Backend  D/F/M"
+  },
+  "personio-careers:3994eea1-edac-40c7-886b-61a92dfa813d": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Software Engineer – Backend / Fullstack (d/f/m)"
+  },
+  "personio-careers:91a97230-58e8-4ba1-94c9-befbddff25b6": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Software Engineer - EO - Munich/London (d/f/m)"
+  },
+  "personio-careers:9105e5a2-7255-464b-a150-64dc4830f69e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Software Engineer, L5 (Full-stack / Backend) - Recruiting (d/f/m)"
+  },
+  "personio-careers:a441faaa-1c38-4243-b888-38686b6bc617": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Software Engineer - Payroll Foundation - Munich/London - (d/f/m)"
+  },
+  "personio-careers:5a4d9bca-8c1c-4fd1-98fd-658bf1d16105": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Software Engineer – Payroll Social Insurance - Munich - (d/f/m)"
+  },
+  "personio-careers:ad28f064-a4db-450b-a8ac-f668fd9b169a": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Software Engineer - Time - London "
+  },
+  "personio-careers:1c2a1634-f16b-4475-a23c-20616c4c2098": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Solutions Consultant - NL (d/f/m)"
+  },
+  "personio-careers:3af20e54-108a-4139-9d65-9c6f668529d3": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Solutions Engineer Benelux (d/f/m)"
+  },
+  "personio-careers:13b38ec4-d002-4b33-908e-af6284f0e7aa": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "(Senior) Solutions Engineer - Payroll Germany (f/m/x)"
+  },
+  "personio-careers:2b7ef96f-bfac-4648-b1fb-35975b7b755d": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Staff Product Designer (d/f/m)"
+  },
+  "personio-careers:71e56d2a-87eb-4ad6-b28a-f6fa079e9c3f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior/Staff Product Manager - Internal AI (d/f/m) "
+  },
+  "personio-careers:bd5667c2-3f3d-4ed2-8b3b-94e1b1b74c95": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Systems Engineer (d/f/m)"
+  },
+  "personio-careers:dd958a0e-8119-46c0-9b3e-f47170b4c948": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Web Designer (d/f/m)"
+  },
+  "personio-careers:1851978c-92a7-47d0-978e-6dea410bf5d2": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Senior Website Design Engineer (AI-Accelerated) (d/f/m)"
+  },
+  "personio-careers:ba5c4a72-9c64-4cce-bec4-90117dbf9759": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Site Reliability Engineer - Datadog, Kafka (d/f/m)"
+  },
+  "personio-careers:8904c0a2-ab16-4a29-91fa-984daf6b6183": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Sr. Customer Business Manager (d/f/m) - Post Sales"
+  },
+  "personio-careers:92434e49-2852-4b19-aca9-31dd97af89bc": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Sr. Customer Business Manager (d/f/m) - Professional Services"
+  },
+  "personio-careers:3872de70-5678-44be-90fd-475541abd6f4": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Staff AI Engineer (d/f/m)"
+  },
+  "personio-careers:f3b0e017-e48a-4171-9a28-15626300a3e4": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Staff Platform Engineer - Infra & Cloud Delivery (d/f/m)"
+  },
+  "personio-careers:889b65c4-405b-4b25-ac38-309707e9cc9f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Staff Site Reliability Engineer (d/f/m)"
+  },
+  "personio-careers:26b74b1a-ca72-4feb-8ee1-90c2bcafba93": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Staff Software Engineer, L6 (Full-stack / Backend) - Recruiting (d/f/m)"
+  },
+  "personio-careers:eda5c75f-d08b-4b0e-9bb4-7422f047ad82": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Staff Software Engineer – Money Domain (d/f/m)"
+  },
+  "personio-careers:32c134f7-9d0b-47f6-bd22-0ab8e0289a7f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Team Lead, Account Executive Personio.org (Nonprofit, Education & Research und Public Sector) (d/f/m)"
+  },
+  "personio-careers:326f51b2-785e-46be-a650-6664bc6ec1d2": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Team Lead - Account Executives (d/f/m)"
+  },
+  "personio-careers:91e9a516-6315-4bea-a310-e4ed7bd7c3d8": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Technical Customer Integration Engineer (d/f/m) - German Speaker"
+  },
+  "personio-careers:a384ca49-214d-4cc1-b215-72f324ac1763": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Testing Platform Engineer - Developer Experience (d/f/m)"
+  },
+  "personio-careers:0918435d-6bc9-40cb-9454-b218143df0b0": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Working Student Account Management (d/f/m)"
+  },
+  "personio-careers:9e6ab93a-9075-463d-838e-ce7307a901f1": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Working Student Customer Success (m/f/d)"
+  },
+  "personio-careers:c6a6e510-d086-4562-a937-4f0599e95134": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Working Student Partner Operations (d/f/m)"
+  },
+  "personio-careers:4faa1872-fd01-4c9b-9fc2-2be16882eb7e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Personio",
+    "title": "Working Student Revenue Operations (d/f/m)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:5da65bde-da50-431c-a360-87e6ebfa5675": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "AI Builder Specialist- CS"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:3af670f7-e74e-4e58-8179-04c677acdde3": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Cloud Security Engineer"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:b6c16cdc-cead-470f-9e2d-4c182f268e78": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "NetSuite Developer"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:5ac0439a-4026-42a7-a4a0-56cfde0ffd93": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "NetSuite Developer"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:3a969fdb-ec33-4c8a-8975-588b7c602e5e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Customer Experience Specialist, APJ"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:7c613583-25d4-4ffb-8b8a-4b40416e879e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Manager, Professional Services"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:ce7c4a3e-f5d2-4fab-a695-173aec5bd718": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Implementation Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:d8ed0e12-0fd1-4905-b8ca-c1d90b195282": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Product Enablement Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:452e860e-9120-40c7-9b32-5bed06c92204": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Workforce Planning Strategic Solution Architect"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:8d91ba3e-3f08-4d34-8384-d069d2258ec9": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Implementation Specialist"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:ee87fc61-06b9-4b58-a025-680f58142826": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Customer Experience Specialist"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:084b8135-73c7-4d37-81f4-b6eb2ec9d367": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Customer Success Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:5e1f2241-f719-4d77-bba4-3bc760d8ab10": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Manager, Enterprise Customer Success"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:8c794dc6-8f17-4c1c-995a-3c80f0d731be": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Enterprise Customer Success Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:c2f182d3-d374-401e-b392-caed70931dfc": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Premium Support Specialist"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:a318b90c-6239-4706-abde-63d75fbf7538": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Payroll Data Solutions Specialist"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:bc5c0732-d20d-4be8-80d2-0022e859909b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Professional Services Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:3a5ee689-eebe-446b-b66f-eaabc8434b53": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Technical Support Engineer (Payroll) - EST"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:0d872276-a032-41b1-9619-1c80659df445": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "HR Implementation Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:a976943d-ece2-4854-8fca-4bb02f7ad622": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Product Support Specialist"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:11c8d860-9ae1-442b-a3b0-402423bbd128": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Benefits Administration Technical Support Engineer - EST"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:f5dfb8fa-8203-4ffb-b362-fac52e941094": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Implementation Manager- Benefits & Payroll"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:15550225-d68a-436c-86a9-df9174c9c443": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Finops Lead"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:e54f5fad-9377-4d4b-8dcb-c3c1bc5bf442": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Corporate & compliance Counsel"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:19a1ae77-3d95-4c31-bd96-29e4a0190f5b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Payroll Accountant"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:50f832d8-6872-4568-b527-ed60bbae1d59": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Account Executive, APJ"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:facbc05d-ea04-43b9-918e-26950a7e0e69": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Business Development Representative, APJ"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:765c9970-8dce-4c6a-a2d9-19188302bf80": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Sales Engineer, APJ"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:5f035810-228e-4616-9fe7-266206f96738": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Sales Manager, APJ"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:8a0d2040-5277-4f03-b3b6-1bcead6e87cc": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "SMB Account Executive - Toronto (Hybrid)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:62197210-0b5d-486f-88bc-e9baea6155d3": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Presales Solutions Consultant/ Sales Engineer (DACH) (m/f/d)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:6ba10fe5-4cf8-4f4e-9693-47d527995b8e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Partner Manager - DACH (m/f/d)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:199d8269-5fd7-49f0-ac64-152d20cbaab2": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Join our DACH Talent Community (f/m/d)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:c5788915-6299-40da-876a-12d3ee8a6bf1": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Paid Acquisition Manager - AI Infrastructure & Growth"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:ce38a65e-c05c-490a-a06a-400729ec8277": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Product Marketing Manager – Core HR"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:49e6534b-650b-47ea-8d82-0b40bb00ed69": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "GTM AI Product Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:17da1d33-7a90-4201-acf9-bb3d8d10900d": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Marketing Campaign Manager Benelux/Nordics (8 months FTC)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:12c36713-dfa4-42c7-acac-10625adb1f8d": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Partnerships Manager - Nordics"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:4a10bfba-895c-4ea6-86bf-cd32e808f766": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Sales Development Manager - Amsterdam"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:d524f79d-c02c-4988-b864-d472ed5d250c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Account Executive - Enterprise (CEE)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:494e986f-d8d3-414c-98db-ec3f79cce949": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Partnerships Manager - EuroWest"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:1b75a080-bf48-4406-a129-8b9e3025eab7": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Sales Engineering Manager - Customer Growth"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:f87077aa-8aa8-4a00-923f-3b964a3ad2c7": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Account Executive - Mid-Market - Nordics"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:8c9138d9-8823-4894-a697-0cb0158ada11": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Regional Marketing Manager (FTC)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:a8d8b367-9abb-49a9-91b3-2714b945ff9c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Sales Engineering Manager - Enterprise"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:0d935b9a-ffd2-465b-b3a3-5ec08e31cf08": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Partner Development Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:37fb5a62-4b57-4d1a-8f29-54bdfc4b94a0": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Account Executive - Mid Market"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:5afe27cf-4058-438b-9e6e-ae0d243056f9": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Partnerships Manager - Nordics"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:7407bef8-6039-41ce-9258-0d885d2fcc7d": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Account Manager - Mid-Market (Upper)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:366f26d5-819e-4d81-9735-987bcfc4f2c6": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Account Executive, Mid-Market"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:bd512c73-8272-4c32-afe1-cce5466f33fd": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Partner Ecosystem Programs & Success Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:dc8c9fd8-da08-40e6-9a67-0ddf03be22b4": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Sales Engineer"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:3b72d47f-0be3-4628-936b-b822c5a62195": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Account Manager - SMB (UK&I)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:d17b5a33-c4b3-4377-8c81-2c618e5cfae8": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Business Development Representative, Enterprise"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:ffe06b0a-18ce-41c8-a635-c78b7ad9a305": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Business Development Representative, Enterprise (CEE) – Polish / Ukrainian / Russian / Hebrew Speaking"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:c32a972f-02f6-4b9c-b792-42bfbb8f2ef3": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Account Executive - UK"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:ebe627ca-9f53-4fd8-a8bb-8a228080d607": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Business Development Representative - UK&I"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:3957d9c4-2ca8-4fde-8480-bf5d5052fc2c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Business Development Representative (NYC)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:d20b006f-a617-44eb-9e51-5e6743a7af03": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "VP of RevOps & Enablement"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:8e94d2ce-6c77-40af-861e-49dfbff08a45": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Business Development Representative (NYC)- Bilingual Spanish"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:fec6403a-9da0-4804-b5ab-bbe94397de77": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Mid Market Account Executive - Central Region"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:3072f3c1-3212-4ac2-bc6a-a69be0eac267": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Mid Market Account Executive - Northeast Region"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:fc66b6bf-7dc4-4d70-9761-c5e69104cef8": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Chief of Staff"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:9a05db6d-5f91-4575-94b5-7281ffb43303": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "People & Culture Partner"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:62b1adcd-4996-4330-a7fd-92bbb6fe589c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Office Coordinator"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:1a774e2b-6131-4fba-867f-3f6ffa06951c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Office & Experience Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:a10c7239-4c7f-4a00-86f1-eb6ae8c6263c": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Backend Engineer - Payroll - Toronto"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:f3c0d2ea-e528-4739-a8e8-37f2239fffb5": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Engineering Team Leader"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:94aa25ef-4179-4297-aaf4-62fce069a03f": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Backend Engineer.- AI Team"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:d78823e0-7234-4693-98ac-9c4d4c4d9b31": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Data Infrastructure Team Lead"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:60613553-ba0f-4fe7-b55b-9e080b3498fa": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "AI Product Manager - Agentic Experience"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:c04d8531-aa98-45c0-9fd4-14b7b9855b50": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Product Manager- Core HR"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:884e3aba-cc74-4c74-a2b5-8a4739a244b5": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Backend Engineer"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:8705cd12-83cd-4660-8e85-f86fb117602b": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Product Designer"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:b01b88ea-b783-4f47-98e5-26d999f4b900": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Engineering Team Lead - AI Studio Team"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:280b1fec-1464-4cbf-adcf-5992a1683d5e": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Backend Engineer"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:7f8b464c-f0b0-43a7-8092-f10515206edd": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "AI Platform Product Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:b3bdef36-6aaf-47db-b8be-204a1aa738c2": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Product Manager - Payroll Management (Time Off)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:b85e4854-3f0a-4903-8a4a-8b386e340498": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Product Manager - ATS"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:7a3caf80-913a-42bd-982a-243932cdf9dc": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Payroll Product Compliance Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:43c6b1f8-e542-4eb0-bebf-12500ecd41fd": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Product Manager - Benefits Administration - EST"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:48b0ba9b-301c-424d-94dc-159abc5461f8": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Site Reliability Engineer - Remote EST"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:99a9a93d-cb53-4a4f-b322-78e0b81122fd": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Backend Engineer - Payroll - EST"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:af780ede-02c3-4089-bc43-0e2d2724bf6a": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "HiBob",
+    "title": "Senior Product Manager - Payroll - EST"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/account-executive-mid-market-dach-m-w-d-2004": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Odoo",
+    "title": "Account Executive Mid-Market DACH (m/w/d)"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/account-manager-dach-indirect-m-w-d-1439": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Odoo",
+    "title": "Account Manager DACH - Indirect (m/w/d)"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/account-manager-dach-direct-m-w-d-1098": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Odoo",
+    "title": "Account Manager DACH - Direct (m/w/d)"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/business-development-manager-m-w-d-2461": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Odoo",
+    "title": "Business Development Manager (m/w/d)"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/sales-manager-business-advisor-dach-m-w-d-787": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Odoo",
+    "title": "Sales Manager/ Business Advisor DACH (m/w/d)"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/junior-accountant-m-w-d-1816": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Odoo",
+    "title": "(Junior) Accountant (m/w/d)"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/partner-account-manager-m-w-d-1247": {
+    "firstSeenAt": "2026-06-24T10:21:21.724Z",
+    "company": "Odoo",
+    "title": "Partner Account Manager (m/w/d)"
+  }
+}
