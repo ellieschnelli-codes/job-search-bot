@@ -35,9 +35,13 @@ export const companies = [
   // target yet. Omitted until a working source is found.
 
   // --- Personio ---
-  { name: 'Personio', source: 'personio', subdomain: 'personio' },
+  // Note: "Personio" itself (the company) doesn't use its own ATS for its
+  // careers page — see `personioCareers` below.
   { name: 'Merantix Momentum', source: 'personio', subdomain: 'merantix-momentum' },
   { name: 'Everphone', source: 'personio', subdomain: 'everphone' },
+
+  // --- Personio's own careers site (custom-built, not their ATS product) ---
+  { name: 'Personio', source: 'personioCareers' },
 
   // --- HiBob ---
   { name: 'HiBob', source: 'hibob', companyIdentifier: 'hibob-fa0ad69d0cb34a' },

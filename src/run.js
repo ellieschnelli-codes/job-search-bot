@@ -4,6 +4,7 @@ import { fetchJobs as fetchAshbyJobs } from './sources/ashby.js';
 import { fetchJobs as fetchGreenhouseJobs } from './sources/greenhouse.js';
 import { fetchJobs as fetchLeverJobs } from './sources/lever.js';
 import { fetchJobs as fetchPersonioJobs } from './sources/personio.js';
+import { fetchJobs as fetchPersonioCareersJobs } from './sources/personioCareers.js';
 import { fetchJobs as fetchHibobJobs } from './sources/hibob.js';
 import { getBrowser, closeBrowser } from './sources/scrape/browser.js';
 import { loadSeenJobs, diffNewJobs, markSeen, saveSeenJobs } from './dedup/seenStore.js';
@@ -28,6 +29,8 @@ async function fetchCompanyJobs(company) {
       return fetchLeverJobs(company);
     case 'personio':
       return fetchPersonioJobs(company);
+    case 'personioCareers':
+      return fetchPersonioCareersJobs(company);
     case 'hibob':
       return fetchHibobJobs(company);
     case 'scrape': {
