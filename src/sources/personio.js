@@ -15,7 +15,7 @@ export async function fetchJobs(company) {
 
   const xml = await res.text();
   const parsed = parser.parse(xml);
-  const positions = parsed?.positions?.position ?? [];
+  const positions = parsed?.['workzag-jobs']?.position ?? [];
   const list = Array.isArray(positions) ? positions : [positions];
 
   return list.map((position) => ({
