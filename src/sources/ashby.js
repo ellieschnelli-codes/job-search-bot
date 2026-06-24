@@ -15,5 +15,6 @@ export async function fetchJobs(company) {
     title: job.title,
     location: job.location ?? job.address?.postalAddress?.addressRegion ?? 'Not specified',
     url: job.applyUrl ?? job.jobUrl,
+    description: job.descriptionPlain ?? '',
   }));
 }

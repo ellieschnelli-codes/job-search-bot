@@ -16,9 +16,19 @@ const JUDGMENT_TOOL = {
   },
 };
 
+// Descriptions vary wildly in length (some scraped pages include unrelated
+// boilerplate); cap what we send so one verbose posting doesn't blow up
+// token usage or push out the more decision-relevant fields.
+const MAX_DESCRIPTION_CHARS = 4000;
+
 // Evaluates a single normalized job against the candidate profile and
 // returns { relevant, reason }. Called once per new (not-yet-seen) job.
 export async function judgeJob(job) {
+  const description = (job.description ?? '').slice(0, MAX_DESCRIPTION_CHARS);
+  const descriptionBlock = description
+    ? `\n\nDescription:\n${description}`
+    : '\n\n(No description available for this posting — judge on title, company, and location alone.)';
+
   const message = await anthropic.messages.create({
     model: 'claude-sonnet-4-6',
     max_tokens: 300,
@@ -26,7 +36,7 @@ export async function judgeJob(job) {
     messages: [
       {
         role: 'user',
-        content: `Company: ${job.company}\nTitle: ${job.title}\nLocation: ${job.location}\n\nIs this job relevant to the candidate's profile? Call submit_judgment with your decision.`,
+        content: `Company: ${job.company}\nTitle: ${job.title}\nLocation: ${job.location}${descriptionBlock}\n\nIs this job relevant to the candidate's profile? Call submit_judgment with your decision.`,
       },
     ],
     tools: [JUDGMENT_TOOL],

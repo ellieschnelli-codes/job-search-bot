@@ -6,6 +6,7 @@ import { fetchJobs as fetchLeverJobs } from './sources/lever.js';
 import { fetchJobs as fetchPersonioJobs } from './sources/personio.js';
 import { fetchJobs as fetchPersonioCareersJobs } from './sources/personioCareers.js';
 import { fetchJobs as fetchHibobJobs } from './sources/hibob.js';
+import { fetchDescription as fetchPersonioDescription } from './sources/personio.js';
 import { getBrowser, closeBrowser } from './sources/scrape/browser.js';
 import { loadSeenJobs, diffNewJobs, markSeen, saveSeenJobs } from './dedup/seenStore.js';
 import { judgeJob } from './filter/llmJudge.js';
@@ -48,6 +49,33 @@ async function fetchCompanyJobs(company) {
   }
 }
 
+// Most sources already include `description` for free in their bulk fetch.
+// The ones that don't (Personio's XML feed, Odoo's scrape) need a per-job
+// page fetch — done here, lazily, only for new jobs about to be judged, so
+// already-seen jobs never pay for it.
+async function enrichWithDescription(job) {
+  if (job.description) return job;
+
+  const [source, ...rest] = job.id.split(':');
+  if (source === 'personio') {
+    job.description = await fetchPersonioDescription(job);
+  } else if (source === 'scrape') {
+    const scraperModule = rest[0];
+    const { fetchDescription } = await import(`./sources/scrape/${scraperModule}.js`);
+    if (!fetchDescription) return job;
+    const browser = await getBrowser();
+    const page = await browser.newPage();
+    try {
+      job.description = await fetchDescription(page, job);
+    } finally {
+      await page.close();
+    }
+  }
+  // personio-careers has no accessible per-job description (its job pages
+  // sit behind bot-detection that blocks headless browsers) — left blank.
+  return job;
+}
+
 // GitHub Actions cron is UTC-only, so the workflow fires at both 06:00 and
 // 07:00 UTC to cover both sides of Europe/Berlin's DST shift. Only the
 // trigger that actually lands at 8am Berlin time should do real work — the
@@ -76,7 +104,6 @@ async function main() {
   // Isolate failures per company so one broken scraper or API outage
   // doesn't take down the whole run.
   const results = await Promise.allSettled(companies.map(fetchCompanyJobs));
-  await closeBrowser();
 
   const allJobs = [];
   results.forEach((result, i) => {
@@ -92,6 +119,7 @@ async function main() {
   const seenMap = await loadSeenJobs();
 
   if (SEED) {
+    await closeBrowser();
     markSeen(seenMap, allJobs);
     await saveSeenJobs(seenMap);
     console.log(`[seed] recorded ${allJobs.length} posting(s) as seen — no judging, no email`);
@@ -100,6 +128,11 @@ async function main() {
 
   const newJobs = diffNewJobs(allJobs, seenMap);
   console.log(`${allJobs.length} total posting(s), ${newJobs.length} new`);
+
+  for (const job of newJobs) {
+    await enrichWithDescription(job);
+  }
+  await closeBrowser();
 
   // Only spend an LLM call on postings we haven't already evaluated.
   const relevantJobs = [];

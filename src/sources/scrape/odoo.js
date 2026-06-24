@@ -24,3 +24,12 @@ export async function scrape(page, company) {
       url: row.url,
     }));
 }
+
+// Job descriptions are free-form CMS content with no dedicated class, so
+// `<main>`'s rendered text (minus the shared header/nav) is the cleanest
+// generic extraction. Called lazily — only for new jobs, right before
+// judging — via a fresh page on the shared browser.
+export async function fetchDescription(page, job) {
+  await page.goto(job.url, { waitUntil: 'domcontentloaded' });
+  return page.$eval('main', (el) => el.innerText).catch(() => '');
+}

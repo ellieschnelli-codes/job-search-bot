@@ -15,5 +15,6 @@ export async function fetchJobs(company) {
     title: job.text,
     location: job.categories?.location ?? 'Not specified',
     url: job.applyUrl ?? job.hostedUrl,
+    description: job.descriptionPlain ?? '',
   }));
 }

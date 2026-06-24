@@ -2,6 +2,8 @@
 // `companyidentifier` header (the subdomain prefix of the careers site),
 // otherwise it 401s. No browser/Playwright needed.
 
+import { stripHtml } from '../utils/html.js';
+
 export async function fetchJobs(company) {
   const res = await fetch(
     `https://${company.companyIdentifier}.careers.hibob.com/api/job-ad`,
@@ -19,5 +21,8 @@ export async function fetchJobs(company) {
     title: job.title,
     location: job.country ?? job.site ?? 'Not specified',
     url: `https://${company.companyIdentifier}.careers.hibob.com/jobs/${job.id}`,
+    description: stripHtml(
+      [job.description, job.requirements, job.responsibilities].filter(Boolean).join('\n\n')
+    ),
   }));
 }
