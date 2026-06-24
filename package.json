@@ -1,0 +1,19 @@
+{
+  "name": "job-search-bot",
+  "version": "1.0.0",
+  "description": "Fetches new job postings from a company watchlist, filters them with Claude, and emails a digest twice a week.",
+  "type": "module",
+  "main": "src/run.js",
+  "scripts": {
+    "start": "node src/run.js",
+    "dry-run": "DRY_RUN=true node src/run.js",
+    "seed": "SEED=true node src/run.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "dotenv": "^16.4.5",
+    "fast-xml-parser": "^4.5.0",
+    "nodemailer": "^6.9.16",
+    "playwright": "^1.49.0"
+  }
+}
