@@ -5,43 +5,43 @@
 //   - 'greenhouse' -> needs `boardToken` (find it in: boards.greenhouse.io/{boardToken})
 //   - 'lever'      -> needs `companySlug` (find it in: jobs.lever.co/{companySlug})
 //   - 'personio'   -> needs `subdomain` (find it in: {subdomain}.jobs.personio.com)
+//   - 'hibob'      -> needs `companyIdentifier` (the subdomain prefix of {x}.careers.hibob.com)
 //   - 'scrape'     -> needs `scraperModule`, matching a filename in src/sources/scrape/
-//                     (e.g. 'companyA' -> src/sources/scrape/companyA.js)
-//
-// Replace every placeholder below with your real ~20 companies.
 
 export const companies = [
-  // --- Ashby (10) ---
-  { name: 'Ashby Company 1', source: 'ashby', boardName: 'TODO-ashby-board-name' },
-  { name: 'Ashby Company 2', source: 'ashby', boardName: 'TODO-ashby-board-name' },
-  { name: 'Ashby Company 3', source: 'ashby', boardName: 'TODO-ashby-board-name' },
-  { name: 'Ashby Company 4', source: 'ashby', boardName: 'TODO-ashby-board-name' },
-  { name: 'Ashby Company 5', source: 'ashby', boardName: 'TODO-ashby-board-name' },
-  { name: 'Ashby Company 6', source: 'ashby', boardName: 'TODO-ashby-board-name' },
-  { name: 'Ashby Company 7', source: 'ashby', boardName: 'TODO-ashby-board-name' },
-  { name: 'Ashby Company 8', source: 'ashby', boardName: 'TODO-ashby-board-name' },
-  { name: 'Ashby Company 9', source: 'ashby', boardName: 'TODO-ashby-board-name' },
-  { name: 'Ashby Company 10', source: 'ashby', boardName: 'TODO-ashby-board-name' },
+  // --- Ashby ---
+  { name: 'Moss', source: 'ashby', boardName: 'moss' },
+  { name: 'n8n', source: 'ashby', boardName: 'n8n' },
+  { name: 'Kittl', source: 'ashby', boardName: 'kittl' },
+  { name: 'Pleo', source: 'ashby', boardName: 'pleo' },
+  { name: 'deepset', source: 'ashby', boardName: 'deepsetai' },
+  { name: 'Leapsome', source: 'ashby', boardName: 'leapsome' },
+  { name: 'Taxfix', source: 'ashby', boardName: 'taxfix.com' },
+  { name: 'Hawk', source: 'ashby', boardName: 'hawk' },
+  { name: 'Camunda', source: 'ashby', boardName: 'camunda' },
+  { name: 'Aleph Alpha', source: 'ashby', boardName: 'AlephAlpha' },
+  // Billie has no separate careers API of its own — its jobs page is
+  // backed by Ashby (board name "billie"), found by inspecting its
+  // network traffic, so it's listed here rather than under `scrape`.
+  { name: 'Billie', source: 'ashby', boardName: 'billie' },
 
-  // --- Greenhouse (2) ---
-  { name: 'Greenhouse Company 1', source: 'greenhouse', boardToken: 'TODO-greenhouse-board-token' },
-  { name: 'Greenhouse Company 2', source: 'greenhouse', boardToken: 'TODO-greenhouse-board-token' },
+  // --- Greenhouse ---
+  { name: 'Parloa', source: 'greenhouse', boardToken: 'parloa' },
+  { name: 'Raisin', source: 'greenhouse', boardToken: 'raisin' },
 
-  // --- Lever (1) ---
-  { name: 'Lever Company 1', source: 'lever', companySlug: 'TODO-lever-company-slug' },
+  // --- Lever ---
+  // Forto: the "forto" Lever slug 404s — their careers page has moved to a
+  // custom WordPress site (careers.forto.com) with no confirmed API/scrape
+  // target yet. Omitted until a working source is found.
 
-  // --- Personio (3) ---
-  // Note: not every Personio account exposes the public XML feed used here.
-  // If a fetch comes back empty/404 for one of these, that company likely
-  // needs to move to `source: 'scrape'` instead.
-  { name: 'Personio Company 1', source: 'personio', subdomain: 'TODO-personio-subdomain' },
-  { name: 'Personio Company 2', source: 'personio', subdomain: 'TODO-personio-subdomain' },
-  { name: 'Personio Company 3', source: 'personio', subdomain: 'TODO-personio-subdomain' },
+  // --- Personio ---
+  { name: 'Personio', source: 'personio', subdomain: 'personio' },
+  { name: 'Merantix Momentum', source: 'personio', subdomain: 'merantix-momentum' },
+  { name: 'Everphone', source: 'personio', subdomain: 'everphone' },
 
-  // --- Custom career pages, scraped with Playwright (3) ---
-  // Add a matching module in src/sources/scrape/ for each (see companyA.js
-  // template) and point `scraperModule` at its filename.
-  { name: 'Scraped Company 1', source: 'scrape', scraperModule: 'companyA' },
-  { name: 'Scraped Company 2', source: 'scrape', scraperModule: 'companyB' },
-  { name: 'Scraped Company 3', source: 'scrape', scraperModule: 'companyC' },
+  // --- HiBob ---
+  { name: 'HiBob', source: 'hibob', companyIdentifier: 'hibob-fa0ad69d0cb34a' },
+
+  // --- Custom career pages, scraped with Playwright ---
+  { name: 'Odoo', source: 'scrape', scraperModule: 'odoo' },
 ];
