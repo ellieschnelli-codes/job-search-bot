@@ -9,23 +9,25 @@ function escapeHtml(str) {
 export function renderDigestHtml(jobsByCompany) {
   const companies = Object.keys(jobsByCompany).sort();
 
-  const sections = companies
-    .map((company) => {
-      const rows = jobsByCompany[company]
-        .map(
-          (job) => `
-        <li style="margin-bottom: 8px;">
-          <a href="${escapeHtml(job.url)}">${escapeHtml(job.title)}</a>
-          <span style="color: #666;"> — ${escapeHtml(job.location)}</span>
-        </li>`
-        )
-        .join('');
+  const sections = companies.length === 0
+    ? '<p style="color: #666;">No new relevant job postings today.</p>'
+    : companies
+        .map((company) => {
+          const rows = jobsByCompany[company]
+            .map(
+              (job) => `
+          <li style="margin-bottom: 8px;">
+            <a href="${escapeHtml(job.url)}">${escapeHtml(job.title)}</a>
+            <span style="color: #666;"> — ${escapeHtml(job.location)}</span>
+          </li>`
+            )
+            .join('');
 
-      return `
-      <h2 style="margin-top: 24px;">${escapeHtml(company)}</h2>
-      <ul style="padding-left: 20px;">${rows}</ul>`;
-    })
-    .join('');
+          return `
+        <h2 style="margin-top: 24px;">${escapeHtml(company)}</h2>
+        <ul style="padding-left: 20px;">${rows}</ul>`;
+        })
+        .join('');
 
   return `
   <html>

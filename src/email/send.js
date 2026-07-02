@@ -14,7 +14,7 @@ export async function sendDigestEmail(html, jobCount) {
   await transport.sendMail({
     from: process.env.SMTP_USER,
     to: process.env.EMAIL_TO,
-    subject: `Job digest: ${jobCount} new posting${jobCount === 1 ? '' : 's'}`,
+    subject: jobCount === 0 ? 'Job digest: nothing new today' : `Job digest: ${jobCount} new posting${jobCount === 1 ? '' : 's'}`,
     html,
   });
 }

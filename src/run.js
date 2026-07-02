@@ -142,21 +142,17 @@ async function main() {
     if (relevant) relevantJobs.push(job);
   }
 
-  if (relevantJobs.length > 0) {
-    const jobsByCompany = {};
-    for (const job of relevantJobs) {
-      (jobsByCompany[job.company] ??= []).push(job);
-    }
-    const html = renderDigestHtml(jobsByCompany);
+  const jobsByCompany = {};
+  for (const job of relevantJobs) {
+    (jobsByCompany[job.company] ??= []).push(job);
+  }
+  const html = renderDigestHtml(jobsByCompany);
 
-    if (DRY_RUN) {
-      console.log(`[dry run] would send email with ${relevantJobs.length} job(s)`);
-    } else {
-      await sendDigestEmail(html, relevantJobs.length);
-      console.log(`Sent email with ${relevantJobs.length} job(s)`);
-    }
+  if (DRY_RUN) {
+    console.log(`[dry run] would send email with ${relevantJobs.length} job(s)`);
   } else {
-    console.log('No relevant new jobs this run — no email sent');
+    await sendDigestEmail(html, relevantJobs.length);
+    console.log(`Sent email with ${relevantJobs.length} job(s)`);
   }
 
   if (DRY_RUN) {
