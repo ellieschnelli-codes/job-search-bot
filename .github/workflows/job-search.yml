@@ -8,7 +8,12 @@ on:
     # so only one real run happens per day regardless of season.
     - cron: '0 6 * * 1,3'
     - cron: '0 7 * * 1,3'
-  workflow_dispatch: {} # allows manually triggering a run from the Actions tab
+  workflow_dispatch:
+    inputs:
+      seed:
+        description: 'Seed mode — mark all current jobs as seen without judging or emailing'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -29,6 +34,7 @@ jobs:
 
       - run: node src/run.js
         env:
+          SEED: ${{ inputs.seed }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
