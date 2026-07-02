@@ -1,12 +1,13 @@
 // Watchlist of companies to check on every run.
 //
 // `source` selects which module in src/sources/ handles the company:
-//   - 'ashby'      -> needs `boardName` (find it in the URL: jobs.ashbyhq.com/{boardName})
-//   - 'greenhouse' -> needs `boardToken` (find it in: boards.greenhouse.io/{boardToken})
-//   - 'lever'      -> needs `companySlug` (find it in: jobs.lever.co/{companySlug})
-//   - 'personio'   -> needs `subdomain` (find it in: {subdomain}.jobs.personio.com)
-//   - 'hibob'      -> needs `companyIdentifier` (the subdomain prefix of {x}.careers.hibob.com)
-//   - 'scrape'     -> needs `scraperModule`, matching a filename in src/sources/scrape/
+//   - 'ashby'       -> needs `boardName` (find it in the URL: jobs.ashbyhq.com/{boardName})
+//   - 'greenhouse'  -> needs `boardToken` (find it in: boards.greenhouse.io/{boardToken})
+//   - 'lever'       -> needs `companySlug` (find it in: jobs.lever.co/{companySlug})
+//   - 'personio'    -> needs `subdomain` (find it in: {subdomain}.jobs.personio.com)
+//   - 'hibob'       -> needs `companyIdentifier` (the subdomain prefix of {x}.careers.hibob.com)
+//   - 'teamtailor'  -> needs `subdomain` (find it in: {subdomain}.teamtailor.com)
+//   - 'scrape'      -> needs `scraperModule`, matching a filename in src/sources/scrape/
 
 export const companies = [
   // --- Ashby ---
@@ -20,6 +21,9 @@ export const companies = [
   { name: 'Hawk', source: 'ashby', boardName: 'hawk' },
   { name: 'Camunda', source: 'ashby', boardName: 'camunda' },
   { name: 'Aleph Alpha', source: 'ashby', boardName: 'AlephAlpha' },
+  { name: 'Cosuno', source: 'ashby', boardName: 'cosuno' },
+  { name: 'Taktile', source: 'ashby', boardName: 'taktile' },
+  { name: 'Enpal', source: 'ashby', boardName: 'enpal' },
   // Billie has no separate careers API of its own — its jobs page is
   // backed by Ashby (board name "billie"), found by inspecting its
   // network traffic, so it's listed here rather than under `scrape`.
@@ -28,6 +32,7 @@ export const companies = [
   // --- Greenhouse ---
   { name: 'Parloa', source: 'greenhouse', boardToken: 'parloa' },
   { name: 'Raisin', source: 'greenhouse', boardToken: 'raisin' },
+  { name: 'Ada Health', source: 'greenhouse', boardToken: 'adahealth' },
 
   // --- Lever ---
   // Forto: the "forto" Lever slug 404s — their careers page has moved to a
@@ -39,9 +44,15 @@ export const companies = [
   // careers page — see `personioCareers` below.
   { name: 'Merantix Momentum', source: 'personio', subdomain: 'merantix-momentum' },
   { name: 'Everphone', source: 'personio', subdomain: 'everphone' },
+  { name: 'SysEleven', source: 'personio', subdomain: 'syseleven' },
+  { name: 'Pets Deli', source: 'personio', subdomain: 'pets-deli' },
+  { name: 'Vara', source: 'personio', subdomain: 'vara' },
 
   // --- Personio's own careers site (custom-built, not their ATS product) ---
   { name: 'Personio', source: 'personioCareers' },
+
+  // --- Teamtailor ---
+  { name: 'Aignostics', source: 'teamtailor', subdomain: 'aignostics' },
 
   // --- HiBob ---
   { name: 'HiBob', source: 'hibob', companyIdentifier: 'hibob-fa0ad69d0cb34a' },

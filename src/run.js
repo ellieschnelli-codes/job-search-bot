@@ -6,6 +6,7 @@ import { fetchJobs as fetchLeverJobs } from './sources/lever.js';
 import { fetchJobs as fetchPersonioJobs } from './sources/personio.js';
 import { fetchJobs as fetchPersonioCareersJobs } from './sources/personioCareers.js';
 import { fetchJobs as fetchHibobJobs } from './sources/hibob.js';
+import { fetchJobs as fetchTeamtailorJobs } from './sources/teamtailor.js';
 import { fetchDescription as fetchPersonioDescription } from './sources/personio.js';
 import { getBrowser, closeBrowser } from './sources/scrape/browser.js';
 import { loadSeenJobs, diffNewJobs, markSeen, saveSeenJobs } from './dedup/seenStore.js';
@@ -34,6 +35,8 @@ async function fetchCompanyJobs(company) {
       return fetchPersonioCareersJobs(company);
     case 'hibob':
       return fetchHibobJobs(company);
+    case 'teamtailor':
+      return fetchTeamtailorJobs(company);
     case 'scrape': {
       const { scrape } = await import(`./sources/scrape/${company.scraperModule}.js`);
       const browser = await getBrowser();
