@@ -29,6 +29,7 @@ jobs:
 
       - run: node src/run.js
         env:
+          TEST_EMAIL: 'true'
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}

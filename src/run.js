@@ -14,6 +14,7 @@ import { renderDigestHtml } from './email/render.js';
 import { sendDigestEmail } from './email/send.js';
 
 const DRY_RUN = process.env.DRY_RUN === 'true';
+const TEST_EMAIL = process.env.TEST_EMAIL === 'true';
 // Fetches and records every current posting as "seen" without judging or
 // emailing anything. Run this once before turning on the schedule so the
 // first real digest only contains postings that appear after that point,
@@ -95,6 +96,13 @@ function isWrongDstTrigger() {
 
 async function main() {
   console.log(`Starting run (${new Date().toISOString()})${DRY_RUN ? ' [DRY RUN]' : ''}`);
+
+  if (TEST_EMAIL) {
+    const html = renderDigestHtml({ 'Test Company': [{ title: 'Test Job', url: 'https://example.com', location: 'Berlin' }] });
+    await sendDigestEmail(html, 1);
+    console.log('Test email sent — SMTP is working.');
+    return;
+  }
 
   if (isWrongDstTrigger()) {
     console.log('Skipping — this trigger does not land at 8am Europe/Berlin today; the other scheduled trigger handles it.');
