@@ -60,8 +60,12 @@ npm run dry-run # fetch + judge only, no email, no persist (safe to test repeate
 3. The workflow at `.github/workflows/job-search.yml` runs automatically
    Mondays and Wednesdays. It schedules at both 06:00 and 07:00 UTC to cover
    Europe/Berlin's DST shift; `src/run.js`'s `isWrongDstTrigger()` check
-   makes whichever trigger doesn't actually land at 8am Berlin time a no-op,
-   so you still only get one real run per day.
+   makes whichever trigger doesn't match the current DST offset a no-op, so
+   you still only get one real run per day. This match is based on which
+   cron fired, not the wall-clock hour at execution time, since GitHub
+   Actions schedule triggers can land hours late — an hour-of-day check
+   would then skip both triggers on a delayed day and drop the digest
+   entirely.
 4. After each run, the workflow commits the updated `data/seen_jobs.json`
    back to the repo — that's the persistence layer, no database needed.
 5. You can trigger a run manually anytime from the Actions tab

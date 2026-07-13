@@ -81,19 +81,39 @@ async function enrichWithDescription(job) {
 
 // GitHub Actions cron is UTC-only, so the workflow fires at both 06:00 and
 // 07:00 UTC to cover both sides of Europe/Berlin's DST shift. Only the
-// trigger that actually lands at 8am Berlin time should do real work — the
-// other one no-ops. This guard only applies to the `schedule` event so
-// manual `workflow_dispatch` runs and local dev runs are unaffected.
-function isWrongDstTrigger() {
-  if (process.env.GITHUB_EVENT_NAME !== 'schedule') return false;
+// trigger whose UTC time matches the *current* DST offset should do real
+// work — the other one no-ops. This guard only applies to the `schedule`
+// event so manual `workflow_dispatch` runs and local dev runs are
+// unaffected.
+//
+// This compares against `github.event.schedule` (which cron string fired)
+// rather than the wall-clock hour at execution time, because GitHub
+// schedule triggers routinely land late — sometimes hours late under load.
+// An hour-of-day check would then see neither trigger land "at 8am" and
+// skip both, dropping the digest for the day entirely. The DST offset
+// itself doesn't change over a few hours of delay, so matching on which
+// cron fired stays correct even when the run itself is very late.
+function getBerlinUtcOffsetHours(date) {
   const berlinHour = Number(
     new Intl.DateTimeFormat('en-US', {
       timeZone: 'Europe/Berlin',
       hour: 'numeric',
       hour12: false,
-    }).format(new Date())
+    }).format(date)
   );
-  return berlinHour !== 8;
+  let diff = berlinHour - date.getUTCHours();
+  if (diff < -12) diff += 24;
+  if (diff > 12) diff -= 24;
+  return diff;
+}
+
+function isWrongDstTrigger() {
+  if (process.env.GITHUB_EVENT_NAME !== 'schedule') return false;
+  const offsetHours = getBerlinUtcOffsetHours(new Date());
+  // CEST (summer, UTC+2) -> 06:00 UTC cron is the one that meant 8am Berlin.
+  // CET (winter, UTC+1) -> 07:00 UTC cron is the one that meant 8am Berlin.
+  const expectedCron = offsetHours === 2 ? '0 6 * * 1,3' : '0 7 * * 1,3';
+  return process.env.GITHUB_EVENT_SCHEDULE !== expectedCron;
 }
 
 async function main() {

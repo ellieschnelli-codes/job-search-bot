@@ -4,8 +4,11 @@ on:
   schedule:
     # 08:00 Europe/Berlin is 06:00 UTC in summer (CEST) and 07:00 UTC in
     # winter (CET). Both are scheduled; run.js's isWrongDstTrigger() guard
-    # makes the one that doesn't actually land at 8am Berlin time no-op,
-    # so only one real run happens per day regardless of season.
+    # makes the one that doesn't match the current DST offset no-op, so
+    # only one real run happens per day regardless of season. The guard
+    # matches on which cron fired (GITHUB_EVENT_SCHEDULE below), not the
+    # wall-clock hour at execution time, since GitHub often runs scheduled
+    # workflows late.
     - cron: '0 6 * * 1,3'
     - cron: '0 7 * * 1,3'
   workflow_dispatch:
@@ -35,6 +38,7 @@ jobs:
       - run: node src/run.js
         env:
           SEED: ${{ inputs.seed }}
+          GITHUB_EVENT_SCHEDULE: ${{ github.event.schedule }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
