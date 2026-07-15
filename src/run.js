@@ -172,21 +172,26 @@ async function main() {
   const html = renderDigestHtml(jobsByCompany);
 
   if (DRY_RUN) {
+    console.log('[dry run] not writing seen_jobs.json');
+  } else {
+    // Mark every fetched job as seen, not just the relevant ones, so
+    // jobs the judge correctly filtered out don't get re-evaluated (and
+    // re-billed) on every future run. This happens BEFORE the email send
+    // deliberately: judging is the expensive, rate-limited step (one LLM
+    // call per job), so a flaky SMTP connection must not force every job
+    // to be re-fetched and re-judged on the next run just because the send
+    // afterward failed — that's what turned one credit-balance failure into
+    // a second, unrelated failure that re-judged ~200 jobs for nothing.
+    markSeen(seenMap, allJobs);
+    await saveSeenJobs(seenMap);
+    console.log('seen_jobs.json updated');
+  }
+
+  if (DRY_RUN) {
     console.log(`[dry run] would send email with ${relevantJobs.length} job(s)`);
   } else {
     await sendDigestEmail(html, relevantJobs.length);
     console.log(`Sent email with ${relevantJobs.length} job(s)`);
-  }
-
-  if (DRY_RUN) {
-    console.log('[dry run] not writing seen_jobs.json');
-  } else {
-    // Mark every fetched job as seen, not just the relevant ones, so
-    // jobs the judge correctly filtered out don't get re-evaluated
-    // (and re-billed) on every future run.
-    markSeen(seenMap, allJobs);
-    await saveSeenJobs(seenMap);
-    console.log('seen_jobs.json updated');
   }
 }
 

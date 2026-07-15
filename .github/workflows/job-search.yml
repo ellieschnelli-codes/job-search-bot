@@ -47,6 +47,12 @@ jobs:
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
 
       - name: Commit updated seen_jobs.json
+        # Always attempt this, even if the run.js step above failed (e.g. the
+        # email send). run.js now writes seen_jobs.json right after judging,
+        # before it tries to send — so a failed send still leaves an updated
+        # file on disk here that must get committed, or the next run repeats
+        # the same expensive judging for nothing.
+        if: always()
         run: |
           git config user.name "job-search-bot"
           git config user.email "actions@users.noreply.github.com"

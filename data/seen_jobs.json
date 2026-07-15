@@ -5138,5 +5138,855 @@
     "firstSeenAt": "2026-07-02T12:24:15.500Z",
     "company": "Aignostics",
     "title": "Senior Backend Engineer / Tech Lead (Data Management) (d/f/m)"
+  },
+  "ashby:moss:0275f215-493b-428c-82ca-024e5dd14c3d": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Moss",
+    "title": "AFC & Card Fraud Intern (f/m/d)"
+  },
+  "ashby:moss:08752b8d-993a-408c-9843-350d10b97706": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Moss",
+    "title": "Business Development Representative - Netherlands (f/m/d)"
+  },
+  "ashby:moss:2d6ae20b-2fd9-4fde-89c2-847df1a86ede": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Moss",
+    "title": "Senior Data Scientist (f/m/d)"
+  },
+  "ashby:moss:53d46420-3605-4f98-85e5-7d1a4f3cd979": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Moss",
+    "title": "Backend Engineer (f/m/d)"
+  },
+  "ashby:moss:8670d0fe-1ad4-4931-beec-8f44c7c9f82b": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Moss",
+    "title": "Staff Brand Designer"
+  },
+  "ashby:moss:d9326162-4255-4bd3-9047-8dda11eab716": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Moss",
+    "title": "Top of Funnel Tooling Product Owner (f/m/d)"
+  },
+  "ashby:moss:f63366f9-bf82-4a71-bc7d-f05e45941bbc": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Moss",
+    "title": "Customer Support Specialist - German / English (f/m/d)"
+  },
+  "ashby:n8n:2b87bd9d-5354-40e2-9615-b72aa1b99dfa": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "n8n",
+    "title": "Senior Customer Success Manager | US Central"
+  },
+  "ashby:n8n:443fd5c2-6501-45cf-b8c8-851fe94d48f9": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "n8n",
+    "title": "Head of Solutions Engineering"
+  },
+  "ashby:n8n:613c5562-05d9-4b2d-af1c-34499a8f7978": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "n8n",
+    "title": "Billing Specialist "
+  },
+  "ashby:n8n:a54307ce-d8db-4560-b5c2-1dcd788215c5": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "n8n",
+    "title": "Customer Success Manager - Guided US Central"
+  },
+  "ashby:n8n:bdff4d5b-9cc0-4b1f-9ca1-7008e5972488": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "n8n",
+    "title": "Senior Frontend Platform Engineer"
+  },
+  "ashby:pleo:288ea716-a481-4bb7-9234-43ec0af774b7": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Pleo",
+    "title": "Manager, Digital Scaled Onboarding"
+  },
+  "ashby:pleo:45ae0c68-b618-42a0-b3dc-a0f99e54d35e": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Pleo",
+    "title": "Engineering Manager - Employee Spend"
+  },
+  "ashby:pleo:4bc838e7-d9c2-4d96-af9c-0d4760ad64f7": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Pleo",
+    "title": "Senior GenAI Platform Engineer"
+  },
+  "ashby:pleo:934035cd-c8f1-4b93-b7ea-59e6d2f3ba0b": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Pleo",
+    "title": "Senior GenAI Platform Engineer"
+  },
+  "ashby:pleo:9839f2a6-790d-450b-b26c-14e656ced62f": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Pleo",
+    "title": "Senior Product Manager, Data & Agentic Products"
+  },
+  "ashby:pleo:a33f8156-a795-4626-8ad3-2c14ea0ecbc9": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Pleo",
+    "title": "Senior Product Manager, Data & Agentic Products"
+  },
+  "ashby:pleo:b1ee3659-469e-48cc-b0b6-ce10edcbcc48": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Pleo",
+    "title": "Account Manager - UK&I"
+  },
+  "ashby:pleo:b45f58cd-0ea8-4abd-bfa3-9830521d9a8c": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Pleo",
+    "title": "Post-Sales Solution Engineer"
+  },
+  "ashby:pleo:bc4c2162-e301-48c0-9857-a0d3db6415b7": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Pleo",
+    "title": "Engineering Manager - Employee Spend"
+  },
+  "ashby:pleo:c500a54b-e76f-4581-90c0-4fd4fe96facc": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Pleo",
+    "title": "Staff Frontend Engineer - Design Systems"
+  },
+  "ashby:pleo:e0f0059b-fb60-4d94-8d10-5fe347872a4f": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Pleo",
+    "title": "Staff Frontend Engineer - Design Systems"
+  },
+  "ashby:leapsome:607e736c-8e02-4e57-b7ba-d7263b6e967b": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Leapsome",
+    "title": "Sales Development Representative Outbound NA"
+  },
+  "ashby:leapsome:76063efa-4d09-4f78-818c-851bedaf2b0c": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Leapsome",
+    "title": "German-speaking Sales Development Representative Outbound (d/f/m)"
+  },
+  "ashby:leapsome:c0666f0f-a4b4-4275-9853-b5285ec08870": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Leapsome",
+    "title": "GTM Enablement Manager (d/f/m)"
+  },
+  "ashby:taxfix.com:01ceee79-fadd-4c90-b89f-e73ee00b2ad3": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Taxfix",
+    "title": "Staff Systems Engineer (d/f/m)"
+  },
+  "ashby:taxfix.com:b9a98917-f0fa-4947-b94c-87e8ebde6357": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Taxfix",
+    "title": "Ops & Support Associate"
+  },
+  "ashby:camunda:0a280381-d3e8-451c-ae8d-687306505183": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Camunda",
+    "title": "Senior Product Builder"
+  },
+  "ashby:camunda:9ce12e95-88cd-4da4-8f61-f9cb198b1cc8": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Camunda",
+    "title": "Senior Technical Writer"
+  },
+  "ashby:camunda:cb714e36-1ff6-4606-bfe8-c2920121f1dd": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Camunda",
+    "title": "Senior Regional Partner Director "
+  },
+  "ashby:camunda:cfafe271-e3e9-4a00-8c0b-39ea10890d8a": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Camunda",
+    "title": "Senior Solution Architect - EMEA North"
+  },
+  "ashby:camunda:e4926b7f-275b-442a-9c4a-c657b7bd79df": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Camunda",
+    "title": "Director, Product Building"
+  },
+  "ashby:camunda:e7d0182d-6da0-49c1-8999-ecd71bec0d4c": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Camunda",
+    "title": "Account Development Representative - Italy/Israel"
+  },
+  "ashby:camunda:f1a149e1-8f94-4c69-ab23-9bf79fe4770c": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Camunda",
+    "title": "Senior Sales Engineer  UK"
+  },
+  "ashby:cosuno:413597ae-6001-446e-a78c-d1d4f5a59580": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Cosuno",
+    "title": "Senior Product Designer (m/f/d) "
+  },
+  "ashby:cosuno:31db8d77-f3ae-40cf-94fc-9ed626356a69": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Cosuno",
+    "title": "Senior Product Manager - General Contractors"
+  },
+  "ashby:cosuno:d9715024-9d46-46ab-9293-749caecf89bb": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Cosuno",
+    "title": "Senior Product Manager - Marketplace"
+  },
+  "ashby:taktile:0ce59314-4ce7-45c2-95d1-4c096b783537": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Taktile",
+    "title": "Forward Deployed Engineer"
+  },
+  "ashby:taktile:113736cb-672e-418a-a54f-a3359b0a49fb": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Taktile",
+    "title": "Global Partnerships Manager — Consulting"
+  },
+  "ashby:taktile:69922129-f45b-46f5-973f-266b7dbf09c0": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Taktile",
+    "title": "Security Lead"
+  },
+  "ashby:taktile:6c08e5fb-ae2f-4553-9c07-fd70f616396a": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Taktile",
+    "title": "Forward Deployed Engineer (Ops)"
+  },
+  "ashby:taktile:90f236d5-d74e-42c8-9501-1b343d9c2e03": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Taktile",
+    "title": "GRC Engineer - Platform Team"
+  },
+  "ashby:taktile:9bf4f087-9780-4e65-94d8-803c506b4ff3": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Taktile",
+    "title": "Technical Program Manager"
+  },
+  "ashby:taktile:e0cb093a-db55-40e7-9c0f-db91d641a9f5": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Taktile",
+    "title": "Senior Executive Events Manager"
+  },
+  "ashby:taktile:e89c4e62-fabf-47e1-95a7-91061b6c0705": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Taktile",
+    "title": "Forward Deployed Engineer"
+  },
+  "ashby:enpal:01853ce8-848e-445c-8629-355b3f47c2df": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Cyber Security Strategy Internship (w/m/d)"
+  },
+  "ashby:enpal:02076555-ecdd-48a3-92ce-c0df8f187061": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Kundenservice Sachbearbeiter:in (w/m/d) "
+  },
+  "ashby:enpal:02a64e47-cb58-4775-8b30-ad59c619246c": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Learning & Development Manager Sales (w/m/d)"
+  },
+  "ashby:enpal:080f78d3-d9f8-4a36-aca5-35488b3c09d0": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Business Analytics & Growth Internship (w/m/d)"
+  },
+  "ashby:enpal:08cd9637-66a9-4da6-a47d-4d514756dbb6": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Intern Performance Marketing (w/m/d)"
+  },
+  "ashby:enpal:0a4b1046-4721-4dd3-8378-b8b4787ede59": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Junior Learning & Development Manager Sales (w/m/d)"
+  },
+  "ashby:enpal:0f7a7699-f4d3-410e-b48b-7517dcaeed3e": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Sales Growth Coach (w/m/d)"
+  },
+  "ashby:enpal:188f31aa-f568-43f9-9e73-df40b3a493d7": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "IT Support (Stage)"
+  },
+  "ashby:enpal:1c5eeb5e-62f7-4dd7-9800-33f56efc3ba3": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Venture Development & Automation Working Student (w/m/d)"
+  },
+  "ashby:enpal:1e82ff87-ddcb-49e4-a481-732a49bd4f27": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Sales Trainer (w/m/d)"
+  },
+  "ashby:enpal:26f1dcef-8088-4ec2-87c3-5559f5c35bea": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Area Sales Manager (w/m/d)"
+  },
+  "ashby:enpal:2a90d761-73c8-4b7f-8f44-7c39eccd0cc6": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Chief of Staff Internship (w/m/d)"
+  },
+  "ashby:enpal:2e7bfd35-af4f-40bc-8d52-35604300d6ef": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Projektleiter:in (w/m/d)"
+  },
+  "ashby:enpal:2ed6fb45-5a86-4053-ae61-cc982b6222f0": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Growth Development - Entrepreneur (w/m/d)"
+  },
+  "ashby:enpal:30b8caef-95d7-497f-9a69-fa9d3771ef4c": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Account Manager - B2B (w/m/d)"
+  },
+  "ashby:enpal:3517938a-9e07-43ec-8df9-d56ab8358218": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Partner Sales Manager (w/m/d)"
+  },
+  "ashby:enpal:390a4913-dfa1-4745-bd17-b14dcfd1217b": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Founder's Associate – Strategy & Operations (w/m/d)"
+  },
+  "ashby:enpal:39398ac3-a86e-4a4f-9972-d9c9715b84fa": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Principal Venture Development (w/m/d)"
+  },
+  "ashby:enpal:3aec7c9e-3806-466e-8b2c-28be4261ad32": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Field Sales Manager (w/m/d)"
+  },
+  "ashby:enpal:3b25bcc4-0ead-4aa1-a489-b4aea705f683": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Junior Sales Enablement Manager (w/m/d)"
+  },
+  "ashby:enpal:3ff04d00-9d6c-4e77-9347-30d039620852": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Principal Venture & Business Development (w/m/d)"
+  },
+  "ashby:enpal:42d4654d-6378-4dfd-bf9b-ca2aff9cd56b": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Founders Associate Intern – Sales & Operations (w/m/d)"
+  },
+  "ashby:enpal:44dec265-8c72-4855-9af9-7ca3d3ede6e4": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Training & Development Manager (w/m/d)"
+  },
+  "ashby:enpal:499b6440-07a4-437d-a396-f44863cdeb69": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Marketing Campaigns Working Student (w/m/d)"
+  },
+  "ashby:enpal:4b7c671e-5370-40fd-a481-28bd50419d72": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Field Coach Vertrieb (w/m/d)"
+  },
+  "ashby:enpal:4e6bce81-f722-4493-9b42-535a29c2d09f": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Kundenbetreuer:in (w/m/d)"
+  },
+  "ashby:enpal:4e7de8c5-5356-43f6-99ac-323b52efbc2b": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Werkstudent:in Kundenbetreuer:in (w/m/d)"
+  },
+  "ashby:enpal:52053d77-7cf7-4ede-a06c-3538b5cdf58a": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Junior Sales Coach (w/m/d)"
+  },
+  "ashby:enpal:61da865a-7c3f-42a5-b9be-aa65230ca4b8": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Performance Marketing Manager (w/m/d)"
+  },
+  "ashby:enpal:64fffe77-e155-433f-b8af-280e82b5e93d": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Business Automation Working Student  (w/m/d)"
+  },
+  "ashby:enpal:67b7d704-0dc5-4ff2-a7a6-c244e4eeb509": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Sales Trainer / Vertriebstrainer (w/m/d)"
+  },
+  "ashby:enpal:67e7de81-4319-4015-acbd-e1d69aebff67": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Principal Business Operations (w/m/d)"
+  },
+  "ashby:enpal:6a090f79-10be-4608-978b-c1930c1e2db0": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Supply Chain & Operations Internship (w/m/d)"
+  },
+  "ashby:enpal:6c104209-69d5-4ad3-88cc-2dbe3302d9ac": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Business Operations Analyst (w/m/d)"
+  },
+  "ashby:enpal:758c9938-111e-46fe-91cb-550c9bc9bdb6": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Intern Marketing Analytics (w/m/d)"
+  },
+  "ashby:enpal:78ad0a2c-4fd1-435c-97b0-92e56b28c9fc": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Product Engineer - Renewable Energy Hardware (f/m/x)"
+  },
+  "ashby:enpal:7a70d47d-f4c9-4806-806a-0689c1142551": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Data Analysis Werkstudent:in (w/m/d)"
+  },
+  "ashby:enpal:80d09160-5e31-483b-aaa5-d9256d530c8b": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Sales Training & Development Manager (w/m/d)"
+  },
+  "ashby:enpal:81c7702a-64d9-46af-b78c-846cbed53f26": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Business Development Intern - Fintech (w/m/d)"
+  },
+  "ashby:enpal:856e9499-8434-4de0-96e5-a40c0d2716b7": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Sales Manager - B2B (w/m/d)"
+  },
+  "ashby:enpal:8962f098-0cec-4268-8c63-ed2b40d6e60a": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Sales Academy Manager (w/m/d)"
+  },
+  "ashby:enpal:8b6af7b2-1335-423d-a8cf-25b7551bf7ae": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Principal Business Development (w/m/d)"
+  },
+  "ashby:enpal:8f0f1cfc-526e-409c-9662-877a63371f38": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Principal Venture Strategy & Operations (w/m/d)"
+  },
+  "ashby:enpal:91d84d7c-0bfc-4918-945c-bf99ee4f8351": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Low-Code Engineering Intern (m/w/d)"
+  },
+  "ashby:enpal:94e50db6-7638-4d63-a07a-78c30412cd34": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Growth & Operations Analyst (w/m/d)"
+  },
+  "ashby:enpal:94f99de4-2903-4309-b5f9-d43d716abd36": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Elektromeister:in & Gründungspartner:in (w/m/d) "
+  },
+  "ashby:enpal:9541cb46-da04-4add-a091-4bc463174bc3": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Field Sales Manager (w/m/d)"
+  },
+  "ashby:enpal:97043ebb-468a-4d7e-8233-cc5f6f000f55": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Sales Trainer Außendienst (w/m/d)"
+  },
+  "ashby:enpal:9ad0e3d4-0c01-4f57-9737-c7d06f214d97": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Team Lead Data Science (f/m/x)"
+  },
+  "ashby:enpal:9b4bb645-6045-4996-ac19-c0f3975e8216": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Venture Development Analyst (w/m/d)"
+  },
+  "ashby:enpal:9b966b2b-5193-4629-870d-bf413d89930b": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Intern Growth Development in AI Performance Marketing (w/m/d)"
+  },
+  "ashby:enpal:a4d8f3e8-71de-47e5-b4cd-9a72bca0bbd7": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Sales Trainer (w/m/d)"
+  },
+  "ashby:enpal:a70a5fe2-b45b-400f-8e7f-501163c5fb28": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Principal Strategy & Venture Development (w/m/d)"
+  },
+  "ashby:enpal:ac77a95b-bb60-4b5e-9b1e-937429d419c9": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Trainer Außendienst (w/m/d)"
+  },
+  "ashby:enpal:b537571f-5000-4f99-97cf-096a748a11f4": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Junior Sales Trainer (w/m/d)"
+  },
+  "ashby:enpal:b75bf6b5-f1af-4a3c-9ead-33e9ab819b85": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Business Operations Internship (w/m/d)"
+  },
+  "ashby:enpal:bf58d43e-5fb4-49f9-b10a-fed0f280e74d": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Praktikant:in für Strategische Projekte & Business Analytics (w/m/d)"
+  },
+  "ashby:enpal:c1985f0f-acce-40d5-b32a-eb6b4e628681": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Strategy & Business Operations Analyst (w/m/d)"
+  },
+  "ashby:enpal:c47453e5-8d18-4923-b689-73575c03e52f": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Supply Chain Domain Lead - ERP (f/m/x)"
+  },
+  "ashby:enpal:c71751f7-1807-40ba-a12b-7d85e29d806c": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "AC-Ausbilder:in (w/m/d) für die Akademie"
+  },
+  "ashby:enpal:cdf16c2b-87d0-4265-ad45-fba826cfe8d3": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Install Partner Acquisition (Operations Specialist Settore Fotovoltaico) | Buona conoscenza della Iingua italiana (B2) Obbligatoria"
+  },
+  "ashby:enpal:cfd8c9fd-71cd-48a5-8d7c-e1e989fd65cc": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Sales Trainer & Coach (w/m/d)"
+  },
+  "ashby:enpal:d0d99fa3-290d-420a-8321-e3b6b3023ea8": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Außendiensttrainer (w/m/d)"
+  },
+  "ashby:enpal:d16ba228-f71b-4643-a2b2-be0077aef094": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Intern Growth Marketing Analyst (w/m/d)"
+  },
+  "ashby:enpal:d48bf33e-a451-481b-bb02-067fa1dcc01c": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Junior Sales Coach & Trainer (w/m/d)"
+  },
+  "ashby:enpal:d6191b40-e7e9-4a5a-868b-747445139240": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Sales Coaching & Development Manager (w/m/d)"
+  },
+  "ashby:enpal:d82a68f3-4208-4f34-abfa-4a3eb9eb4a88": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Accounting & Finance Specialist"
+  },
+  "ashby:enpal:da195c89-1aee-427b-b8ae-f4f9d6d772c2": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Senior BI Developer (f/m/x)"
+  },
+  "ashby:enpal:daaf830c-3b4a-4efa-8079-16c7922df61c": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Key Account Manager - B2B (w/m/d)"
+  },
+  "ashby:enpal:dbf610d3-7c8f-4eb7-9260-75b9565a6b23": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Intern Venture Development (w/m/d) Logistics"
+  },
+  "ashby:enpal:dc36aa2e-3761-45db-acb8-f1f3113efa9d": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Sales Excellence Manager (w/m/d)"
+  },
+  "ashby:enpal:dd8e7d1d-00e4-4771-aa39-96c448d2c119": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Training & Enablement Manager (w/m/d)"
+  },
+  "ashby:enpal:e02343b5-9734-4c7f-936f-f64ab081f5c2": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Intrapreneur (w/m/d)"
+  },
+  "ashby:enpal:e35d5fb1-b499-4c4e-96a2-e1e74a908aa2": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "(Senior) Associate Venture Development (w/m/d)"
+  },
+  "ashby:enpal:e4e82adb-9bab-4a05-b6d3-4cb8fd1b84f6": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Intern Venture Development (w/m/d)"
+  },
+  "ashby:enpal:e7aabcdf-f68b-448b-b49b-be50e563e2d3": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Field Sales Manager (w/m/d)"
+  },
+  "ashby:enpal:e7d9a177-94a9-41c3-8cf9-384759d54a80": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Intern Strategic Projects & Business Operations (w/m/d)"
+  },
+  "ashby:enpal:e908f96c-3de7-45eb-af1b-26809f65ae5a": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": " Sales & Operations Intern - Fintech (w/m/d)"
+  },
+  "ashby:enpal:eb675d61-c46c-4027-9c44-232aa3e8d800": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Business Analytics Internship (f/m/x)"
+  },
+  "ashby:enpal:ef65cd65-9647-491a-b136-55406468a65b": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": " Intern Revenue Operations (w/m/d)"
+  },
+  "ashby:enpal:f25052f6-dc00-4d1b-ab2e-46f1fd207f17": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Growth Marketing Analyst (w/m/d)"
+  },
+  "ashby:enpal:fbc1c794-617d-45c3-91ce-556216388fe2": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Sales Coach / Vertriebstrainer (w/m/d)"
+  },
+  "ashby:enpal:fcd40674-5f37-47e9-9ff8-6705d596dc30": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Praktikan:in Venture Development (w/m/d) Logistics"
+  },
+  "ashby:enpal:fd489123-89f9-40ec-9bea-64128e30f6c3": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Enpal",
+    "title": "Sales Enablement Manager (w/m/d)"
+  },
+  "greenhouse:parloa:4925162101": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Parloa",
+    "title": "Business Development Representative - San Francisco"
+  },
+  "greenhouse:parloa:4922351101": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Parloa",
+    "title": "Lead/Senior Solution Engineer - Turkey"
+  },
+  "greenhouse:parloa:4926582101": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Parloa",
+    "title": "Partner Marketing Manager"
+  },
+  "greenhouse:parloa:4917838101": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Parloa",
+    "title": "Principal Security Engineer"
+  },
+  "greenhouse:parloa:4857704101": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Parloa",
+    "title": "Principal Software Engineer - Real-Time Voice"
+  },
+  "greenhouse:parloa:4917970101": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Parloa",
+    "title": "Production Designer"
+  },
+  "greenhouse:parloa:4928578101": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Parloa",
+    "title": "Senior Agent Architect (UK)"
+  },
+  "greenhouse:parloa:4925068101": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Parloa",
+    "title": "Senior Forward Deployed Engineer (France)"
+  },
+  "greenhouse:parloa:4925069101": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Parloa",
+    "title": "Senior Forward Deployed Engineer (Spain)"
+  },
+  "greenhouse:parloa:4923755101": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Parloa",
+    "title": "Sr Value Engineer - West Coast"
+  },
+  "greenhouse:parloa:4896674101": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Parloa",
+    "title": "Staff/Principal Software Engineer (Frontend)"
+  },
+  "greenhouse:raisin:4919850101": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Raisin",
+    "title": "(Senior) Operational Risk Manager (f/m/d)"
+  },
+  "greenhouse:raisin:4928564101": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Raisin",
+    "title": "Senior Product Manager - Investment & Pension Products (m/f/d)"
+  },
+  "greenhouse:raisin:4912059101": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Raisin",
+    "title": "Working Student Affiliate Marketing (m/f/d)"
+  },
+  "personio:merantix-momentum:2698305": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Merantix Momentum",
+    "title": "(Senior) Sales Manager – AI for Manufacturing & Industrials (m/f/d)"
+  },
+  "personio:everphone:2705207": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Everphone",
+    "title": "AI Operations Lead (w/m/d)"
+  },
+  "personio:pets-deli:2712123": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Pets Deli",
+    "title": "(Senior) Creative Strategist – Performance & Direct Response (m/w/d)"
+  },
+  "personio:pets-deli:2248679": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Pets Deli",
+    "title": "(Working Student) Sales Assistant (m/w/d) 15h/Woche  - Pets Deli Store Schöneberg"
+  },
+  "personio:pets-deli:2030491": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Pets Deli",
+    "title": "(Working Student) Sales Assistant (m/w/d) 15h/Woche - Pets Deli Store Friedrichshain"
+  },
+  "personio-careers:31d12df0-3743-4050-b8b7-daba68b6a921": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Personio",
+    "title": "Business Development Representative I SaaS (d/f/m)"
+  },
+  "personio-careers:9cb38da0-6d22-4352-845f-f0f6c19d5e5e": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Personio",
+    "title": "(Junior) Account Manager -  Small Business DACH (d/f/m)"
+  },
+  "personio-careers:c76d503d-ee28-4d92-9e3f-423ba3e41d1f": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Personio",
+    "title": "Revenue Operations Manager -Compensation team (f/m/x)"
+  },
+  "personio-careers:3f4904b9-69f6-4ae8-802a-18abbcf8a385": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Personio",
+    "title": "Senior Enablement Specialist (d/f/m) - Commercial Execution"
+  },
+  "personio-careers:002b0cd5-e989-4ef3-8925-642552a4adcb": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Personio",
+    "title": "Senior Frontend Engineer (d/f/m)"
+  },
+  "personio-careers:12294baa-af1c-43d7-b8ee-72e5985ce5bd": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Personio",
+    "title": "Senior Lead - PTech Analytics (d/f/m) "
+  },
+  "personio-careers:e276e6df-41d1-4ccb-81c9-88e4c6eb067a": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Personio",
+    "title": "Senior Solutions Engineer ATCH (d/f/m)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:c3afeb36-04cf-4cb2-817b-ab8dab0318e1": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "HiBob",
+    "title": "Senior Customer Experience Specialist"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:f2b8cdeb-666d-4012-920c-9ab6a3a8a2d3": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "HiBob",
+    "title": "Managed Services Payroll Specialist"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:895e792b-e683-4846-bb6f-5fa44b869b16": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "HiBob",
+    "title": "Creative Director"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:a82b286b-ee21-4899-be93-c811e2bc8ecc": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "HiBob",
+    "title": "Account Executive - Nordics (Amsterdam based)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:b98954c9-0a51-4f99-9e51-80f402416501": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "HiBob",
+    "title": "Associate Sales Engineer, Amsterdam"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:5dc48950-98c2-4bbf-b6f3-fb7d679b11ae": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "HiBob",
+    "title": "Associate Account Executive- SMB"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:4043ee7a-bd68-455f-a45b-539cd2599f44": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "HiBob",
+    "title": "Sales Manager, Mid-Market (UK&I)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:44678594-6231-49a8-aa7c-2c76db3ad82b": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "HiBob",
+    "title": "Mid Market Account Executive - Northeast Region"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:952edbd2-e9ca-4635-8a0e-6f6919d50201": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "HiBob",
+    "title": "Mid Market Account Executive - Central Region"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:0d24ec43-976a-40de-8359-18ec7d6437f3": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "HiBob",
+    "title": "VP Payroll & Benefits (Services & Operations)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:ab1200c3-0dcc-4d54-b58c-136461dbe586": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "HiBob",
+    "title": "Backend Tech Lead – AI Platform"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:e32be5ae-efaf-4466-ab23-c3154d3e1d6b": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "HiBob",
+    "title": "Senior Frontend Engineer"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/content-copywriting-specialist-m-w-d-2690": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Odoo",
+    "title": "Content & Copywriting Specialist (m/w/d)"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/partner-acquisition-manager-outbound-dach-m-w-d-2655": {
+    "firstSeenAt": "2026-07-15T10:36:02.440Z",
+    "company": "Odoo",
+    "title": "Partner Acquisition Manager Outbound DACH (m/w/d)"
   }
 }
