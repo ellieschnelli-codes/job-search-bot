@@ -6323,5 +6323,235 @@
     "firstSeenAt": "2026-07-20T09:27:18.429Z",
     "company": "HiBob",
     "title": "Creative Director (US)"
+  },
+  "ashby:n8n:d71dbf82-43f0-4318-a1e9-4d97d07ec884": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "n8n",
+    "title": "Senior Partnerships Manager, Service Integrators, DACH"
+  },
+  "ashby:n8n:bf526af6-784c-49e8-8233-d69595423b4d": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "n8n",
+    "title": "Senior Data Engineer"
+  },
+  "ashby:n8n:5afbde12-defb-457d-a21e-584347141436": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "n8n",
+    "title": "IT Systems & Automation Engineer"
+  },
+  "ashby:n8n:96d809df-d383-417b-8906-37c6028304f2": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "n8n",
+    "title": "Senior Support Engineer | Remote | US"
+  },
+  "ashby:pleo:bb2b0067-64e2-4213-8e11-3c932b578b45": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Pleo",
+    "title": "Senior Solution Engineer UK/I"
+  },
+  "ashby:deepsetai:259a197f-0fb1-4ac2-bb6c-764a0484c508": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "deepset",
+    "title": "Product Engineering Tech Lead"
+  },
+  "ashby:camunda:64f8313b-d108-4121-b252-f99f2fe66c01": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Camunda",
+    "title": "Senior Manager, Presales - EMEA South"
+  },
+  "ashby:camunda:af27a3de-d3ba-40dd-976f-9767bdc1e7e8": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Camunda",
+    "title": "Software Engineer, Backend - Distributed Systems"
+  },
+  "ashby:camunda:0d5a0ffa-ef3a-4b68-b682-cfcd8241f2b6": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Camunda",
+    "title": "Senior Field Revenue Operations Strategist-North America"
+  },
+  "ashby:camunda:57c7aef5-f043-4b3b-b88d-3180f18bbb9d": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Camunda",
+    "title": "Senior Software Engineer,Backend - Core/API & Process Automation"
+  },
+  "ashby:cosuno:fea6be73-4c44-4de7-95b0-2c2541954f22": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Cosuno",
+    "title": "Senior IT Security Manager"
+  },
+  "ashby:cosuno:815dedd0-f4c9-4ab6-b463-a486af593529": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Cosuno",
+    "title": "IT Administrator"
+  },
+  "ashby:enpal:4cc20a2a-d496-4b92-83e0-c01c071a5ae3": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Process und Automation Manager:in (w/m/d) "
+  },
+  "ashby:enpal:cd852164-674f-41cb-a637-6ed586c28c2c": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Financial Planning & Analytics Internship (f/m/x)"
+  },
+  "ashby:enpal:d62ced64-df90-4347-a2c2-f9a2d481e614": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Procurement & Supply Chain Analytics Internship (f/m/x)"
+  },
+  "ashby:enpal:41d4d550-e175-48b2-b8e8-2dffc5aa4134": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": " Strategy & Innovation Internship (f/m/x)"
+  },
+  "ashby:enpal:aa41a318-1713-40ba-bca7-3f52bc42c401": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Außendiensttrainer (w/m/d)"
+  },
+  "ashby:enpal:b59042fa-53ca-44ec-8065-ea925b803b56": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Field Coach Vertrieb (w/m/d)"
+  },
+  "ashby:enpal:5305b338-2fe4-4939-9cd8-a611c9fc038e": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Sales Trainer Außendienst (w/m/d)"
+  },
+  "ashby:enpal:3b28cc9f-3dac-4e9b-b648-6e75ddb00739": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Sales Trainer (w/m/d)"
+  },
+  "ashby:enpal:950a0f1d-5197-4b36-94bf-5a66d2b931f6": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Sales Coach / Vertriebstrainer (w/m/d)"
+  },
+  "ashby:enpal:f10ce0ef-ee74-40b4-8a78-04d6df8d0163": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Sales Trainer / Vertriebstrainer (w/m/d)"
+  },
+  "ashby:enpal:010a1620-4513-41fd-8736-5ce2ba888915": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Trainer Außendienst (w/m/d)"
+  },
+  "ashby:enpal:f5ea6d41-960d-495e-b518-a074840c3034": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Venture Development Analyst (w/m/d)"
+  },
+  "ashby:enpal:e5ee4783-6e94-45a2-8a43-fdede2332f92": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Business Analyst – Strategy & Operations (w/m/d)"
+  },
+  "ashby:enpal:46850bf0-a13c-40a1-a4e3-5ea1b5cd9d53": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Business Operations Analyst (w/m/d)"
+  },
+  "ashby:enpal:ddb18b41-14d3-4701-a445-7c5d480f824d": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Growth & Operations Analyst (w/m/d)"
+  },
+  "ashby:enpal:c4ffed99-1342-4948-bed0-3a748eed7796": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Strategy & Business Operations Analyst (w/m/d)"
+  },
+  "ashby:enpal:bd67261d-6f98-4aca-99c7-4e52d3453bee": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Founder's Associate – Strategy & Operations (w/m/d)"
+  },
+  "ashby:enpal:cb4455a3-a2ce-40f9-bcc6-2697e4f7a666": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "(Senior) Startup Operations Manager (w/m/d)"
+  },
+  "ashby:enpal:1c2d83e2-6d3d-4223-9778-4731dddd4e8c": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "(Senior) Business Operations Manager (w/m/d)"
+  },
+  "ashby:enpal:b35d9745-4b14-4e3b-874f-a8db6be770c9": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "(Senior) Venture Builder (w/m/d)"
+  },
+  "ashby:enpal:3e121045-5d91-437e-86e8-3f90aa9d548d": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "(Senior) Associate Venture Development (w/m/d)"
+  },
+  "ashby:enpal:a6a3d100-d36d-4b3c-b616-348b704edb4a": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Principal Venture Strategy & Operations (w/m/d)"
+  },
+  "ashby:enpal:d255c90f-7f61-4c17-a0c3-b25d572a2d7b": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Principal Business Operations (w/m/d)"
+  },
+  "ashby:enpal:7466a929-b03b-4af4-8c0a-402e23e4ddfb": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Principal Business Development (w/m/d)"
+  },
+  "ashby:enpal:14ec835b-dbe3-48f5-bb43-2dbe0d3edf26": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Principal Strategy & Venture Development (w/m/d)"
+  },
+  "ashby:enpal:65c203eb-6834-4a33-aa58-1a0ca1c7590f": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Enpal",
+    "title": "Principal Venture & Business Development (w/m/d)"
+  },
+  "greenhouse:parloa:4928877101": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Parloa",
+    "title": "Senior Partner Solution Engineer - SAP"
+  },
+  "greenhouse:parloa:4934426101": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Parloa",
+    "title": "Staff Product Designer - Expert Experience"
+  },
+  "personio-careers:fe8a8cc8-8aa0-412c-9bab-81d67077a516": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Personio",
+    "title": "Senior Engagement Manager - Professional Services (d/f/m)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:6582d671-7ad3-4d15-86b6-34ee30fe0c00": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "HiBob",
+    "title": "Customer Experience Engineer"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:3c2f0843-1ab7-45e6-ab13-085e99f60d73": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "HiBob",
+    "title": "Customer Experience Process Specialist- Payroll & Partners"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:403dae40-aca0-4201-943a-2c0f2840c07f": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "HiBob",
+    "title": "Deal Desk Specialist (Maternity leave)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:dc560704-d676-4c4f-8389-5e7c66d26fbf": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "HiBob",
+    "title": "Business Development Representative - Iberia"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/channel-account-manager-french-1376": {
+    "firstSeenAt": "2026-07-22T08:38:17.381Z",
+    "company": "Odoo",
+    "title": "Channel Account Manager (French)"
   }
 }
