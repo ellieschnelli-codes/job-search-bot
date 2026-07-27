@@ -6553,5 +6553,255 @@
     "firstSeenAt": "2026-07-22T08:38:17.381Z",
     "company": "Odoo",
     "title": "Channel Account Manager (French)"
+  },
+  "ashby:moss:ab9fc0b1-a590-421e-afb3-4b9960929efb": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Moss",
+    "title": "Product AI Agent Builder"
+  },
+  "ashby:moss:4f998822-03f1-4b31-ac48-928b5e2122a7": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Moss",
+    "title": "Senior Product Manager (m/f/d)"
+  },
+  "ashby:n8n:566726ff-a159-4943-9a07-0f8537530057": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "n8n",
+    "title": "Sales Development Representative DACH (German speaker)"
+  },
+  "ashby:n8n:1472007f-fdd1-4dac-9180-4aeef99086bd": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "n8n",
+    "title": "Sales Development Representative EMEA (Inbound)"
+  },
+  "ashby:n8n:aa5c9cbd-2ee8-4312-89a9-21b8c9377d16": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "n8n",
+    "title": "Sales Development Manager (SDR) EMEA"
+  },
+  "ashby:n8n:7864a8b4-499b-4e13-b293-500d451e6640": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "n8n",
+    "title": "Senior Developer Advocate (Education), EMEA"
+  },
+  "ashby:n8n:33e46e4f-85b9-49ca-a010-16586c118c50": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "n8n",
+    "title": "Senior Developer Advocate, US"
+  },
+  "ashby:n8n:c35b91dc-fc0c-47e7-8156-ac4a30cc47b7": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "n8n",
+    "title": "Staff Product Marketing Manager (Enterprise) "
+  },
+  "ashby:n8n:276727f2-5555-4a59-90b7-5423af3dfc48": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "n8n",
+    "title": "Mid-Market Sales Manager US"
+  },
+  "ashby:n8n:569612ef-9772-4351-9ea7-56c359225301": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "n8n",
+    "title": "Field Marketing Lead, US"
+  },
+  "ashby:pleo:40a8a279-8680-4169-a17c-51cc30d4c840": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Pleo",
+    "title": "Manager, Sales (Emerging: ES, NL, Nordics) "
+  },
+  "ashby:pleo:5931594c-d0e3-40c5-85d2-c685f8b22eba": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Pleo",
+    "title": "Senior Manager, Sales UKI"
+  },
+  "ashby:taxfix.com:33a2ab5d-36a6-4b36-b72e-b6ab41dce520": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Taxfix",
+    "title": "Director of Product Management, Platform (d/f/m)"
+  },
+  "ashby:taxfix.com:efae9cdd-e836-4a2e-a3a1-6887b7444905": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Taxfix",
+    "title": "Senior Director of Product, Consumer (d/f/m)"
+  },
+  "ashby:taxfix.com:160626a8-7d41-4b5e-81f7-88ab82f85b3e": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Taxfix",
+    "title": "Technical Product Manager (d/f/m) - People Intelligence Apps"
+  },
+  "ashby:taxfix.com:2b88230b-a999-4813-ba72-3e5e40f7eaff": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Taxfix",
+    "title": "Senior Financial Analyst – Revenue Analytics & Modeling (d/f/m)"
+  },
+  "ashby:hawk:f36462b5-352f-4700-bdc8-4606ef1be08a": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Hawk",
+    "title": "Accountant"
+  },
+  "ashby:camunda:08543cc4-7971-4ce4-8e7b-d42073faba89": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Camunda",
+    "title": "AI Process Forward Deployed Engineer"
+  },
+  "ashby:camunda:42b8007d-8299-4793-9581-2b3868ba0754": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Camunda",
+    "title": "AI Forward Deployed Engineer, EMEA"
+  },
+  "ashby:camunda:e58aa263-e06b-4e20-8b55-c88047ed8f58": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Camunda",
+    "title": "Senior Software Engineer, Backend"
+  },
+  "ashby:camunda:a255e411-c84d-4562-b0ba-d778e0bc57c1": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Camunda",
+    "title": "Director, Solution and Product Marketing"
+  },
+  "ashby:taktile:f30be403-c6b8-4eaf-911b-50aeb0c5def2": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Taktile",
+    "title": "Senior Product Manager - Decision Engine"
+  },
+  "ashby:enpal:0e021306-0cf5-4db1-b4bc-88091a6715ef": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Enpal",
+    "title": "Praktikant:in Projektmanagement (w/m/d)"
+  },
+  "ashby:enpal:7ad76a47-bdf9-4d51-a2bb-386348faaad2": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Enpal",
+    "title": "Operations Manager Post Installation (Wärmepumpen) (w/m/d)"
+  },
+  "ashby:enpal:53d5aa56-d0db-41a4-a0a2-91e9482eac8a": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Enpal",
+    "title": "Intern Revenue Operations (w/m/d)"
+  },
+  "ashby:enpal:aa08f532-33c7-4304-93e6-7a1b86bd9200": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Enpal",
+    "title": "Praktikant:in Venture Development (w/m/d)"
+  },
+  "ashby:enpal:9aedd3ae-5921-4c99-af46-0118a0641a96": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Enpal",
+    "title": "Principal / Senior Consultant (w/m/d) – International Projects"
+  },
+  "ashby:enpal:0a5d0faf-a511-43d1-be99-448fac19fc39": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Enpal",
+    "title": "Intern Data & Analytics (w/m/d)"
+  },
+  "ashby:enpal:f128c2d2-a4e6-4b61-ad97-be64aaf192f6": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Enpal",
+    "title": "Intern Revenue Operations & Analytics (w/m/d)"
+  },
+  "greenhouse:parloa:4937751101": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Parloa",
+    "title": "Engineering Manager"
+  },
+  "greenhouse:parloa:4924677101": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Parloa",
+    "title": "Partner Sales Manager "
+  },
+  "greenhouse:parloa:4751885101": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Parloa",
+    "title": "Senior Value Consultant - East"
+  },
+  "greenhouse:parloa:4935645101": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Parloa",
+    "title": "Sr Agent Architect (Germany)"
+  },
+  "greenhouse:raisin:4929092101": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Raisin",
+    "title": "Intern Compliance - Investment Services (m/f/d)"
+  },
+  "greenhouse:raisin:4933599101": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Raisin",
+    "title": "Senior Software Engineer - US Payments and Partner Operations (m/f/d)"
+  },
+  "greenhouse:raisin:4936082101": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Raisin",
+    "title": "Senior Software Engineer - US Payments and Partner Operations (m/f/d)"
+  },
+  "personio-careers:c59cc980-7680-4ca8-9f0a-015e1ec81198": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Personio",
+    "title": "Brand & Creative Operations Manager (d/f/m) - 6 months fixed-term contract"
+  },
+  "personio-careers:06d44ca5-fe67-4bae-9346-29bfce2cd456": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Personio",
+    "title": "Senior System Integration Engineer (d/f/m)"
+  },
+  "personio-careers:bec00c43-f6f0-4701-9907-cf83935299eb": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Personio",
+    "title": "Sr. Customer Implementation Specialist (d/f/m) - German Speaking"
+  },
+  "personio-careers:5be1ab99-68b8-426d-a651-b27a45cbbda0": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Personio",
+    "title": "Sr. Customer Implementation Specialist (d/f/m) - Professional Services"
+  },
+  "personio-careers:45efb646-0ed2-4e08-bc03-6779f518aa3e": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Personio",
+    "title": "Working Student Revenue Operations (d/f/m)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:dd496625-e35c-4f1e-89ab-9cf493a1404f": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "HiBob",
+    "title": "Lead Customer Success Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:4cf829ca-a9b6-44e8-a0d4-ffebbd0c54de": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "HiBob",
+    "title": "Commission Analyst"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:6225417a-79d4-46c9-a87b-4423c56e2c31": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "HiBob",
+    "title": "Account Executive - DACH (m/f/d)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:24cc47ae-486e-4a69-9d85-a9f4c9167386": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "HiBob",
+    "title": "Sales Engineer - Nordics (Amsterdam based)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:e6f996d4-a75d-43f6-bad1-2c9fb9c962dd": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "HiBob",
+    "title": "Business Development Representative (Enterprise)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:cc5949f1-8f9e-4e40-bc1a-b46baa453585": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "HiBob",
+    "title": "Business Development Representative (CEE)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:8b92fb26-93ae-4e52-b11f-944c3bd91e5f": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "HiBob",
+    "title": "People and Culture Partner"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:1deb0fd4-0786-474b-b028-c82a8d9d4c54": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "HiBob",
+    "title": "Product Manager - Workforce Planning"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/senior-staff-accountant-798": {
+    "firstSeenAt": "2026-07-27T10:02:03.056Z",
+    "company": "Odoo",
+    "title": "Senior Staff Accountant"
   }
 }
