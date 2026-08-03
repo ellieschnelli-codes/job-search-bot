@@ -9,9 +9,8 @@ a genuine hands-on track record in AI and automation.
 Location: based in Berlin, not willing to relocate. Roles must be either in
 Berlin or fully remote within Europe.
 
-Salary: minimum [Gehalt entfernt], flexible bis [Gehalt entfernt]. If a
-posting doesn't mention salary at all, that's fine — do not filter it out
-for missing salary information.
+Salary: do not filter on salary either way — whether a posting mentions
+a number or not, that's fine.
 
 Looking for roles in these areas — job titles vary widely, so judge by what
 the role actually does, not just the title:
