@@ -7158,5 +7158,255 @@
     "firstSeenAt": "2026-08-03T09:55:55.285Z",
     "company": "Odoo",
     "title": "Motion Designer"
+  },
+  "ashby:moss:9cc20912-6cca-4a9c-84cb-db4f19a89c61": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Moss",
+    "title": " Deputy MLRO (f/m/d)"
+  },
+  "ashby:moss:f5516914-6d26-463c-9a6d-1097fbd99f4e": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Moss",
+    "title": "Customer Success Manager (f/m/d)"
+  },
+  "ashby:n8n:bcf96878-d41a-479d-b506-7753356077c4": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "n8n",
+    "title": "Senior Product Manager (Enterprise)"
+  },
+  "ashby:n8n:d418f8fb-b2f2-405e-8f22-db73dcf4e8b4": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "n8n",
+    "title": "Senior Product Manager - Core Platform"
+  },
+  "ashby:n8n:4e0f0f7b-3924-47d9-a50e-3cb2900b7b82": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "n8n",
+    "title": "Senior FP&A Manager GTM"
+  },
+  "ashby:n8n:ea8efc33-c7b8-4b88-826c-3dca17c3aa47": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "n8n",
+    "title": "Staff Core Platform Engineer"
+  },
+  "ashby:n8n:a4e8b668-77e3-4d9d-9c79-221f6e809cdb": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "n8n",
+    "title": "Enterprise Account Executive"
+  },
+  "ashby:pleo:6fe0fc7c-8fd8-4e35-ac7f-63f769d4dcee": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Pleo",
+    "title": "Risk & Control Officer"
+  },
+  "ashby:taxfix.com:676995f1-ca87-43c0-8d7a-ebcfba2dc876": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Taxfix",
+    "title": "Programme Manager (d/f/m) - Office of the CFO"
+  },
+  "ashby:hawk:ed3d7574-9b8b-4c6b-96c9-8f42797594cf": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Hawk",
+    "title": "Enterprise Account Executive"
+  },
+  "ashby:camunda:d5ce4070-2d06-4529-956f-a93d05eefd99": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Camunda",
+    "title": "Technical Account Manager - Benelux"
+  },
+  "ashby:camunda:05cb2825-dcd9-40e6-bf92-bda409d99374": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Camunda",
+    "title": "Senior Product Builder-Connectors Experience- EMEA"
+  },
+  "ashby:camunda:105c7c74-56ad-400d-a93e-d2fa5b8b0424": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Camunda",
+    "title": "Senior Talent Acquisition Partner"
+  },
+  "ashby:camunda:d48e8349-43b3-4af0-9ae7-011ccab28b91": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Camunda",
+    "title": "Enterprise Account Executive - North America "
+  },
+  "ashby:camunda:05070fb6-de7a-4a03-b885-442032da57ec": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Camunda",
+    "title": "Technical Account Manager - DACH"
+  },
+  "ashby:taktile:2674fc6c-19de-4ad5-838f-c7126b404b8e": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Taktile",
+    "title": "Business Ops Associate"
+  },
+  "ashby:enpal:0fbec768-7da2-4446-bb02-d202dceb9ff8": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Enpal",
+    "title": "Fachkraft für Arbeitssicherheit (SiFA) (w/m/d) "
+  },
+  "ashby:enpal:025a05a6-5b6b-45a4-aa46-59d00b5b2c68": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Enpal",
+    "title": "Bauleiter:in (w/m/d)"
+  },
+  "ashby:enpal:c53d7815-3d76-4d28-9432-51d7ea3e85c4": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Enpal",
+    "title": "Business Analyst – Strategy & Operations (w/m/d)"
+  },
+  "ashby:enpal:e6b5423f-66fb-4fab-8784-d5e4744c3383": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Enpal",
+    "title": "Operations Manager – Process Excellence & Automation (w/m/d)"
+  },
+  "ashby:enpal:21573462-a54f-4488-b2d5-2d390f6fe9c0": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Enpal",
+    "title": "(Senior) Strategic Partnerships Manager (w/m/d)"
+  },
+  "ashby:enpal:46731c1e-c229-40e1-ba11-9185cb3f2a00": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Enpal",
+    "title": "Senior Analytics Engineer (f/m/x) - Enpal Energy"
+  },
+  "ashby:enpal:0e43db2b-6aa2-4b8d-aa46-7fe5d425d75c": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Enpal",
+    "title": "Busniess Operations Manager:in (w/m/d)"
+  },
+  "ashby:enpal:a38896d6-7b9b-4034-b436-4d10449ccad7": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Enpal",
+    "title": "EHS Manager:in (w/m/d) "
+  },
+  "greenhouse:parloa:4947868101": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Parloa",
+    "title": "Forward Deployed Engineer, DevOps"
+  },
+  "greenhouse:parloa:4936108101": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Parloa",
+    "title": "Senior Frontend Platform Engineer (f/m/d)*"
+  },
+  "greenhouse:parloa:4950863101": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Parloa",
+    "title": "Senior Workplace Manager"
+  },
+  "greenhouse:raisin:4945588101": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Raisin",
+    "title": "AFC Operations Manager (m/f/d)"
+  },
+  "greenhouse:raisin:4929079101": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Raisin",
+    "title": "Head of Payment Operations US"
+  },
+  "greenhouse:raisin:4949391101": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Raisin",
+    "title": "Senior Manager AFC Advisory (f/m/d)"
+  },
+  "greenhouse:raisin:4950960101": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Raisin",
+    "title": "Senior People Application Manager (m/f/d)"
+  },
+  "greenhouse:raisin:4937276101": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Raisin",
+    "title": "Working Student Information Security & Access Management (m/f/d)"
+  },
+  "personio:everphone:2249316": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Everphone",
+    "title": "Kundenservice Mitarbeiter (w/m/d)"
+  },
+  "personio:everphone:2577927": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Everphone",
+    "title": "Senior DevOps Engineer (w/m/d)"
+  },
+  "personio:everphone:2738983": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Everphone",
+    "title": "Werkstudent*in Legal & Procurement (w/m/d)"
+  },
+  "personio-careers:4ebb06a5-649c-47c3-ade7-a73b97cbe0b7": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Personio",
+    "title": "Accountant - Accounts Payable (d/f/m)"
+  },
+  "personio-careers:bece7f05-be9c-4bc5-ab78-dc7b644c97e2": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Personio",
+    "title": "Customer Success Manager DACH (d/f/m) "
+  },
+  "personio-careers:510e5762-f9d1-45c6-844e-5f29d3e2ed1d": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Personio",
+    "title": "Product Designer (Senior/Staff) (d/f/m)"
+  },
+  "personio-careers:90baf20b-6785-4dcc-bbe9-609f7b709d98": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "Personio",
+    "title": "Staff Technical Product Designer, AI (d/f/m)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:745fa460-6929-4e44-98a4-2e33d9dbecb0": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "HiBob",
+    "title": "IT Support Specialist"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:dc416a02-62eb-4068-8223-c75af9ec7b2f": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "HiBob",
+    "title": "Dutch speaking Enterprise Customer Success Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:8697e266-e55a-48e2-8c59-e30d147ee0e8": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "HiBob",
+    "title": "Customer Experience Process Specialist - AI & Automation"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:41200073-394e-4c09-9856-e6acabdd5411": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "HiBob",
+    "title": "Senior Business Analyst"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:68dd4934-f8be-4d5b-adcf-a74916cf7c52": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "HiBob",
+    "title": "Associate Account Executive - SMB"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:511f4590-f9a1-43e6-ad86-d513a5d365d0": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "HiBob",
+    "title": "Business Development Representative - Benelux"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:50b5e4f4-8839-4f18-a729-ffb5918c95a1": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "HiBob",
+    "title": "Deal Desk Specialist"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:63faa8e9-a694-44cc-bd0b-6bfefdc5741d": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "HiBob",
+    "title": "Mid Market Account Executive - Northeast Region"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:2420b5ea-7f29-40c1-8bd7-c0a7d1740e5e": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "HiBob",
+    "title": "Sales Engineer(Mid-Market)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:c692e1cf-93c1-47f3-b61a-d4390953092b": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "HiBob",
+    "title": "Associate Sales Engineer(SMB)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:299a197f-86f1-470c-bc73-0bdb40517f76": {
+    "firstSeenAt": "2026-08-12T07:41:51.280Z",
+    "company": "HiBob",
+    "title": "Business Development Representative (NYC)- Bilingual Spanish"
   }
 }
