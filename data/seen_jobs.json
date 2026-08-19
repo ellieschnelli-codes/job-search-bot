@@ -7563,5 +7563,160 @@
     "firstSeenAt": "2026-08-17T07:05:23.067Z",
     "company": "Odoo",
     "title": "Customer Success Manager, Indirect"
+  },
+  "ashby:pleo:f7088170-f17d-4eb1-b6e8-cb947d2bb769": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Pleo",
+    "title": "Staff Analytics Engineer"
+  },
+  "ashby:pleo:2cd2285d-487f-44dc-9da8-7bdbebd51fef": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Pleo",
+    "title": "Staff Analytics Engineer"
+  },
+  "ashby:camunda:534428df-6415-4a20-9034-24dee2729231": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Camunda",
+    "title": "Enterprise Account Executive UKI"
+  },
+  "ashby:camunda:327f13d9-6054-46e5-96cd-bd757554f478": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Camunda",
+    "title": "Senior Software Engineer, Backend"
+  },
+  "ashby:cosuno:71d83d81-0401-4e6b-b7ee-72f5af7434b2": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Cosuno",
+    "title": "Engineering Manager"
+  },
+  "ashby:enpal:75978c2a-dc0c-489c-acee-f04b38eaf834": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Enpal",
+    "title": "Fleet Manager:in (w/m/d)"
+  },
+  "ashby:enpal:cad9ca34-539f-410e-b236-61dd3077ba24": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Enpal",
+    "title": "Venture Development Intern (w/m/d)"
+  },
+  "ashby:enpal:e809aab2-afcd-4b1f-b301-b99cd29474cd": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Enpal",
+    "title": "Senior Software Engineer (f/m/x)"
+  },
+  "ashby:enpal:6a398025-9ae8-4546-8e00-79434c03a98d": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Enpal",
+    "title": "Operations Manager:in Messstellenbetrieb (w/m/d)"
+  },
+  "ashby:enpal:fd1c9233-5ed5-4ed9-9d99-8edefe30a22f": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Enpal",
+    "title": "Strategy, Tech & Operations Internship (w/m/d)"
+  },
+  "ashby:enpal:5e53a3ab-c784-41d2-92a1-a103b92147e7": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Enpal",
+    "title": "Growth & Operations Intern (w/m/d)"
+  },
+  "ashby:enpal:465cb466-3300-47e0-ad59-04b3858227ae": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Enpal",
+    "title": "Business Operations Intern (w/m/d)"
+  },
+  "ashby:enpal:c0c30080-cafe-40ba-b2ef-66abc8904634": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Enpal",
+    "title": "Founder's Associate Intern (w/m/d)"
+  },
+  "ashby:enpal:4f2e2e07-4917-45af-9863-590796b1a065": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Enpal",
+    "title": "Strategy & Venture Intern (w/m/d)"
+  },
+  "ashby:enpal:a9f54cba-3cfc-4994-9b19-27a0a9855c94": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Enpal",
+    "title": "Strategy & Operations Intern (w/m/d)"
+  },
+  "ashby:enpal:42be5d94-f8a9-4d72-8a7d-b4ca2dbf8813": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Enpal",
+    "title": "Fuhrparkmanager:in (w/m/d)"
+  },
+  "ashby:enpal:6322ae22-0f28-46d2-bcc6-39b961e720da": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Enpal",
+    "title": "Strategic Partnerships Lead "
+  },
+  "personio:pets-deli:2756931": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Pets Deli",
+    "title": "Teilzeitkraft / Werkstudent:in (m/w/d) im Micro Influencer & Partnermarketing – Deutsch & Niederländisch"
+  },
+  "personio-careers:ae5ef9ef-3d32-4418-9e2f-bb356c894bdc": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Personio",
+    "title": "Associate Payroll Services Specialist (d/f/m)"
+  },
+  "personio-careers:56a33ff6-d265-4748-8980-d6d4f1abb556": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Personio",
+    "title": "Customer Implementation Specialist (Dutch Speaking) "
+  },
+  "personio-careers:d4567603-79f1-483d-88a8-71938cfaed45": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Personio",
+    "title": "Customer Onboarding Specialist - Dutch Speaking"
+  },
+  "personio-careers:928bc3cf-5a09-4fab-8a26-9bab5e0ae379": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Personio",
+    "title": "Lead Systems Engineering (d/f/m)"
+  },
+  "personio-careers:c649f578-142a-4e6a-b2bd-7ea68ec60021": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Personio",
+    "title": "Senior Site Reliability Engineer (f/m/d)"
+  },
+  "personio-careers:fe80df45-88be-431b-a68c-46e9419b4fbf": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Personio",
+    "title": "Working Student Sales Development (d/f/m) "
+  },
+  "hibob:hibob-fa0ad69d0cb34a:584d5fa5-69da-41c2-997d-124805f51f0a": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "HiBob",
+    "title": "Managed Services Payroll Specialist"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:6533cab6-f8df-4080-8215-a7bb0998570f": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "HiBob",
+    "title": "Customer Experience Specialist- Payroll"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:ee216358-24dd-4a7b-9cd4-fb002efd5531": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "HiBob",
+    "title": "Mid Market Account Executive - Toronto"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:ebae36ef-b1d1-4648-ab2e-045eaaa5243c": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "HiBob",
+    "title": "Business Development Representative - DACH (m/f/d)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:cb2b8e6f-a44d-4af3-b39c-95f1f1859426": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "HiBob",
+    "title": "People and Culture Partner"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/hr-executive-quezon-city-philippines-2407": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Odoo",
+    "title": "HR Executive (Quezon City, Philippines)"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/customer-success-manager-direct-213": {
+    "firstSeenAt": "2026-08-19T06:53:49.742Z",
+    "company": "Odoo",
+    "title": "Customer Success Manager, Direct"
   }
 }
