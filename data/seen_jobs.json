@@ -7718,5 +7718,165 @@
     "firstSeenAt": "2026-08-19T06:53:49.742Z",
     "company": "Odoo",
     "title": "Customer Success Manager, Direct"
+  },
+  "ashby:n8n:b45f4511-fae8-4ea1-ae88-f17d26f13acb": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "n8n",
+    "title": "Sales Enablement Manager (Remote)"
+  },
+  "ashby:n8n:dfcf02c3-e74e-4fa9-b86b-4b7549444cb0": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "n8n",
+    "title": "Mid-Market Account Executive US"
+  },
+  "ashby:n8n:3c27e561-aaff-4f41-929a-b1ba7ea8bf2b": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "n8n",
+    "title": "VP Revenue Marketing"
+  },
+  "ashby:pleo:636df222-00f7-445e-80e2-493df986734e": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Pleo",
+    "title": "Senior Manager, Customer Success"
+  },
+  "ashby:deepsetai:332b4d2d-1368-4817-acef-8ded48f66af2": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "deepset",
+    "title": "Enterprise Account Executive"
+  },
+  "ashby:leapsome:6b24817c-c7aa-4fe3-945a-db114169ccda": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Leapsome",
+    "title": "Creative & Paid Social Strategist (d/f/m) - German-speaking"
+  },
+  "ashby:leapsome:35433a71-8016-47f7-af17-61fe67be89bf": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Leapsome",
+    "title": "CS Enablement Manager (d/f/m)"
+  },
+  "ashby:camunda:e98c0d0c-9e42-4fa1-979d-8f2e77295efc": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Camunda",
+    "title": "Senior Sales Engineer - UK"
+  },
+  "ashby:camunda:1487b177-d9ee-4ec3-8fc3-1db47756631a": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Camunda",
+    "title": "Product Builder"
+  },
+  "ashby:enpal:08eb8f44-a27c-4297-8bd5-c899c3d7984f": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Enpal",
+    "title": "Inside Sales Manager (w/m/d) "
+  },
+  "ashby:enpal:8bd9282a-d29f-4abe-93dc-c93446db9905": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Enpal",
+    "title": "Senior Accountant – GL Accounting (w/m/d)"
+  },
+  "ashby:enpal:7c6bd2c4-74ff-4107-b4e7-fbcc5c07a983": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Enpal",
+    "title": "Group Accounting Expert (f/m/x)"
+  },
+  "ashby:enpal:27bf2056-7ca9-476e-ae1c-49fc0319d65c": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Enpal",
+    "title": "Technical Accounting Expert (f/m/x)"
+  },
+  "ashby:enpal:b525fcb4-c882-4b3f-98d3-ae96e43a2bbf": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Enpal",
+    "title": "Senior Analyst Business Operations (w/m/d)"
+  },
+  "ashby:enpal:ffa625d0-470a-4802-ac4b-144a777f99b8": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Enpal",
+    "title": "Lead Expert VAT (w/m/d) – Schwerpunkt Umsatzsteuer"
+  },
+  "ashby:enpal:a3365dc4-ddd0-4b40-82a9-e1ab212dd3e3": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Enpal",
+    "title": "Staff Data Engineer (f/m/d)_metrify"
+  },
+  "greenhouse:parloa:4957430101": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Parloa",
+    "title": "Junior Accountant, Accounts Payable"
+  },
+  "greenhouse:parloa:4958366101": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Parloa",
+    "title": "Partner Sales Manager - Technology"
+  },
+  "greenhouse:parloa:4957712101": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Parloa",
+    "title": "Senior Enterprise Engagement Manager - CEE"
+  },
+  "greenhouse:parloa:4771502101": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Parloa",
+    "title": "Working Student Finance/Accounting"
+  },
+  "greenhouse:raisin:4948843101": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Raisin",
+    "title": "Bank Relationship and Analytics Manager (m/f/d)"
+  },
+  "greenhouse:raisin:4923906101": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Raisin",
+    "title": "Working Student Data Engineer (m/f/d)"
+  },
+  "personio:everphone:1852071": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Everphone",
+    "title": "Mitarbeiter*in im Lager (w/m/d)"
+  },
+  "personio-careers:620774da-f07a-463f-a66e-4b3c0abe203f": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Personio",
+    "title": "Content Developer Lead (d/f/m) - FTC 12 Months"
+  },
+  "personio-careers:1f97e080-e47a-4638-bf91-b1b90da23973": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Personio",
+    "title": "Financial Accountant (d/f/m) - Accounts Payable"
+  },
+  "personio-careers:af33a1f5-abce-4f83-ad29-98854e6b63a7": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Personio",
+    "title": "Head of - Product & Engineering Analytics (d/f/m) "
+  },
+  "personio-careers:1387be54-7a61-4015-b603-11ea35803a49": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Personio",
+    "title": "Software Engineer (d/f/m) - Internal AI "
+  },
+  "personio-careers:67b152a2-b3ad-401d-9ed5-d5250a03e99e": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Personio",
+    "title": "Team Lead Content Developer (d/f/m) - FTC 12 Months"
+  },
+  "personio-careers:0e8c31d3-668d-45cf-abf9-9d2d8e9655b2": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Personio",
+    "title": "Team Lead Content Developer (d/f/m) - Interim"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:3347caaf-0ae3-405f-a50e-3857b4461768": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "HiBob",
+    "title": "Senior Lifecycle Marketing Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:5c56973b-0adc-460e-80ba-39734e3da6a5": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "HiBob",
+    "title": "Sales Engineer(Mid-Market)- Payroll"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/customer-care-associate-spanish-1930": {
+    "firstSeenAt": "2026-08-24T07:07:29.812Z",
+    "company": "Odoo",
+    "title": "Customer Care Associate (Spanish)"
   }
 }
