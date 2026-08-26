@@ -7878,5 +7878,130 @@
     "firstSeenAt": "2026-08-24T07:07:29.812Z",
     "company": "Odoo",
     "title": "Customer Care Associate (Spanish)"
+  },
+  "ashby:n8n:b4b51954-9927-4e8c-9529-cf79739245f8": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "n8n",
+    "title": "Enterprise Account Executive - Northern Europe"
+  },
+  "ashby:n8n:d7efe3a6-bea9-4b3b-b8ee-3e91bfd5cef7": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "n8n",
+    "title": "Technical Account Manager (US)"
+  },
+  "ashby:kittl:da6ed85c-3d42-4b45-bb5d-333933f3cd52": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Kittl",
+    "title": "Brand Marketing Lead"
+  },
+  "ashby:pleo:99a2394f-63e3-4d6b-95b5-f7407b023e04": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Pleo",
+    "title": "Senior Engineering Manager - Decision Intelligence"
+  },
+  "ashby:pleo:38476337-326c-407a-9ac9-25977dd96360": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Pleo",
+    "title": "Senior Engineering Manager - Decision Intelligence"
+  },
+  "ashby:pleo:db5835b5-86ce-452b-95f4-4f67f04f4d35": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Pleo",
+    "title": "Staff GRC Analyst"
+  },
+  "ashby:pleo:ccecf3cd-6e35-4036-b567-251aa58cec50": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Pleo",
+    "title": "Staff GRC Analyst"
+  },
+  "ashby:pleo:657d6102-dbe8-46a2-9981-e218dcf119a2": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Pleo",
+    "title": "Customer Success Manager II "
+  },
+  "ashby:deepsetai:05b807d2-f9bc-48a1-a830-8cafee07ed5d": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "deepset",
+    "title": "Account Executive (EU Institutions)"
+  },
+  "ashby:taxfix.com:dc25b1dd-0b5f-4c0d-86ca-9c01e41e1432": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Taxfix",
+    "title": "Interim/Freelance Director of IT, Security & Infrastructure (d/f/m)"
+  },
+  "ashby:camunda:5d366525-a519-4ca9-8c13-7e461a31a1d4": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Camunda",
+    "title": "Senior Manager, QA Engineering"
+  },
+  "ashby:camunda:1e14e7de-c0f4-4640-a58e-0e2fdbf5647e": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Camunda",
+    "title": "Software Engineer, Backend - Data Layer"
+  },
+  "ashby:camunda:7f97e255-53a0-4a8a-a7e3-92b1ed9da743": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Camunda",
+    "title": "Principal Product Manager- Time to First Production"
+  },
+  "ashby:camunda:41dfaaa4-51d6-4cea-8231-b1457ab5a786": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Camunda",
+    "title": "Senior Sales Engineer - UAE"
+  },
+  "ashby:taktile:afc2260e-6837-4f65-8db2-9fb926f82489": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Taktile",
+    "title": "Deployment Lead"
+  },
+  "greenhouse:parloa:4767450101": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Parloa",
+    "title": "Documentation Specialist"
+  },
+  "greenhouse:parloa:4959144101": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Parloa",
+    "title": "Manager, Agent Architecture"
+  },
+  "greenhouse:parloa:4959301101": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Parloa",
+    "title": "Manager, Forward Deployed Engineering"
+  },
+  "greenhouse:parloa:4688953101": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Parloa",
+    "title": "Senior Engineering Manager"
+  },
+  "greenhouse:parloa:4959298101": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Parloa",
+    "title": "Senior Forward Deployed Engineer (France)"
+  },
+  "greenhouse:raisin:4922825101": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Raisin",
+    "title": "Director Engineering - Investment & Pension domain (m/f/d)"
+  },
+  "greenhouse:raisin:4953665101": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Raisin",
+    "title": "Senior Performance Marketing Manager (m/f/d)"
+  },
+  "personio-careers:94811531-925e-423a-875b-459c90ebcc3f": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "Personio",
+    "title": "Inbound Sales Development Representative (d/f/m)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:d1c65f79-92b2-4e66-9d15-9afe6744c9a5": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "HiBob",
+    "title": "Mid Market Account Executive - Central Region"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:2054d5d5-0136-44a1-a876-826262c0ce59": {
+    "firstSeenAt": "2026-08-26T06:57:20.210Z",
+    "company": "HiBob",
+    "title": "Sales Manager - SMB"
   }
 }
