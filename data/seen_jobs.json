@@ -8173,5 +8173,110 @@
     "firstSeenAt": "2026-08-31T13:12:51.955Z",
     "company": "Odoo",
     "title": "Senior Accountant"
+  },
+  "ashby:moss:c6480476-e201-4f7a-96e2-42c9a63b02a9": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Moss",
+    "title": "Business Development Representative - UK"
+  },
+  "ashby:moss:b8242173-5372-4f5c-8384-d48e9a12eb59": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Moss",
+    "title": "Senior Partnership Manager - DE (f/m/d)"
+  },
+  "ashby:n8n:98d8bc2f-ee58-4732-8977-61a761aac8b0": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "n8n",
+    "title": "Senior Product Manager - Core Experience"
+  },
+  "ashby:hawk:19be8dc7-5b39-45e7-b0d0-9b2d9154ef9f": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Hawk",
+    "title": "Customer Data Scientist "
+  },
+  "ashby:camunda:af47b87e-097b-4ec5-ae82-a6d3e76558fc": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Camunda",
+    "title": "Senior InfoSec GRC Analyst"
+  },
+  "ashby:taktile:c9d47dd2-3252-4266-a581-b9d1b46e9297": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Taktile",
+    "title": "Senior Full-Stack Engineer - Team Agent"
+  },
+  "ashby:enpal:71268ef4-de3a-4148-b0b7-83a2bd5bad4b": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Enpal",
+    "title": "Flowmanager:in | Home Office | (w/m/d)"
+  },
+  "ashby:enpal:b41f568b-0282-45f6-9c82-185ab0594533": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Enpal",
+    "title": "Field Sales Manager (w/m/d)"
+  },
+  "ashby:enpal:a0d3e16c-5af5-4099-8117-a1aaccd61348": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Enpal",
+    "title": "Werkstudent:in Office Management (w/m/d)"
+  },
+  "ashby:enpal:4b211b2b-1788-499e-8a72-db65e25920ef": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Enpal",
+    "title": "IT Support Specialist (Help Desk)"
+  },
+  "ashby:enpal:864f3f44-48c2-4bf1-9cd2-a0069c8efab7": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Enpal",
+    "title": "HEAD OF MARKETING"
+  },
+  "greenhouse:parloa:4965878101": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Parloa",
+    "title": "EMEA Senior Product Marketing Manager "
+  },
+  "greenhouse:raisin:4952241101": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Raisin",
+    "title": "Customer Service Agent — Investment & Pension Products (m/f/d)"
+  },
+  "greenhouse:raisin:4950873101": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Raisin",
+    "title": "(Senior) Credit Risk Manager (m/f/d)"
+  },
+  "personio:everphone:2529284": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Everphone",
+    "title": "Head of Procurement (w/m/d)"
+  },
+  "personio-careers:b3c47532-4cff-4757-9153-87b7f6ce8f3c": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Personio",
+    "title": "Senior Data Engineer  (d/f/m)"
+  },
+  "personio-careers:dffb6773-8289-4799-bf5b-8a80b6241ebf": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Personio",
+    "title": "Senior Legal Counsel - Product & Privacy (d/f/m)"
+  },
+  "personio-careers:74dd46cc-74eb-4549-89cb-36c5b3cddd91": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "Personio",
+    "title": "Senior Revenue Operations Manager - Revenue Planning & Insights (f/m/x)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:24b24f94-3bd2-4098-8d61-ac88431cbb28": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "HiBob",
+    "title": "Senior Technical Support Specialist"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:431f83a2-9976-477e-b699-c8cb257803ba": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "HiBob",
+    "title": "Associate Account Executive - Amsterdam"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:6fc00f09-b959-43dd-a7b8-511ead4c1222": {
+    "firstSeenAt": "2026-09-02T10:58:13.348Z",
+    "company": "HiBob",
+    "title": "Enterprise Account Executive"
   }
 }
