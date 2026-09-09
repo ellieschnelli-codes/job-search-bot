@@ -8458,5 +8458,125 @@
     "firstSeenAt": "2026-09-07T12:04:01.821Z",
     "company": "HiBob",
     "title": "Senior AI Ops Engineer"
+  },
+  "ashby:n8n:c9fc97fa-a473-4133-b3cb-502785649ecd": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "n8n",
+    "title": "Forward Deployed Engineer - EMEA"
+  },
+  "ashby:pleo:5fcea6a4-028f-4975-a964-c7cedbd097fa": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Pleo",
+    "title": "Account Executive II - Nordics "
+  },
+  "ashby:camunda:93fc1bfe-d505-4c8b-a333-72d10612696d": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Camunda",
+    "title": "Software Engineer, Backend - Core/API & Process Automation"
+  },
+  "ashby:camunda:49bfed84-f5ef-4d38-9f6d-0a59fdd8a0bf": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Camunda",
+    "title": "Senior Manager, FP&A"
+  },
+  "ashby:taktile:1028d0f1-b445-4619-8f4b-ab4702851d95": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Taktile",
+    "title": "Sales Enablement Lead"
+  },
+  "ashby:enpal:5f5278e8-02c0-4c06-86fb-fdda1f7d0679": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Enpal",
+    "title": "Business Analytics Intern (f/m/x)"
+  },
+  "ashby:enpal:33003f9a-95ac-46a2-a7c7-884b89f36124": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Enpal",
+    "title": "Analytics Engineer (m/f/d)"
+  },
+  "ashby:enpal:9307b657-2c7b-4bd4-961e-0b505abc3ac2": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Enpal",
+    "title": "Venture Building Internship - New Venture (w/m/d)"
+  },
+  "ashby:enpal:376045d8-d08c-400a-a3ed-c942035eeda5": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Enpal",
+    "title": "Junior Operations Specialist (w/m/d)"
+  },
+  "ashby:enpal:6db2f6fa-9d5f-4571-bafd-21dfbc644186": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Enpal",
+    "title": "Privacy Manager & DPO — Fractional"
+  },
+  "personio-careers:9a347813-9693-4918-80b2-a9afec1880e4": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Personio",
+    "title": "Account Executive Benelux (d/f/m)"
+  },
+  "personio-careers:fb8ab322-fec2-4a38-84b7-2ccfd303bbb3": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Personio",
+    "title": "Associate Premium Support Specialist (d/f/m) - German Speaking - FTC 12 Months"
+  },
+  "personio-careers:c56aa082-8260-4c02-b18b-e6e0f5d3899e": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Personio",
+    "title": "General Ledger Accountant (m/f/d) "
+  },
+  "personio-careers:fa51ae44-d418-41dc-afd4-69b33e3d64c7": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Personio",
+    "title": "Onsite Hiring Day: Business Development Representative (d/f/m)"
+  },
+  "personio-careers:5d1704bc-c2a4-48d1-ba2c-9d1afe765c3a": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Personio",
+    "title": "Premium Support Specialist (d/f/m) - German Speaking - FTC 12 Months"
+  },
+  "personio-careers:2ce11d2a-5055-4ace-93fd-79dafc86dd34": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Personio",
+    "title": "System Administrator (d/f/m)"
+  },
+  "personio-careers:9cf549a3-de4e-4902-8380-37fc0742cda5": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Personio",
+    "title": "Team Lead Business Development - Medium Business (d/f/m)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:96c4f519-f64b-4a99-941f-8e2ca79e004c": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "HiBob",
+    "title": "Senior IT Platform Engineer"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:e41aa061-751d-436f-a34c-d8f7bb65cb57": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "HiBob",
+    "title": "Finance Applications Product Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:7fd1b0e9-447f-486e-8e38-87cef4f4b308": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "HiBob",
+    "title": "CX Process Specialist- Engineering (Maternity Leave)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:1c424aa8-3b91-4dec-a540-7eb55d8db56b": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "HiBob",
+    "title": "Senior Account Executive (Enterprise) - DACH"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:8e6d5b58-8017-46b6-8115-c9123f766a1f": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "HiBob",
+    "title": "Software Architect - Data Platform"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:295c2faa-bf71-4700-8c1e-6bf7a6eac8a6": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "HiBob",
+    "title": "Senior AI Ops Engineer"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/customer-care-associate-indirect-2743": {
+    "firstSeenAt": "2026-09-09T11:03:17.800Z",
+    "company": "Odoo",
+    "title": "Customer Care Associate (Indirect)"
   }
 }
