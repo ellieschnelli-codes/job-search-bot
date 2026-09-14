@@ -8578,5 +8578,145 @@
     "firstSeenAt": "2026-09-09T11:03:17.800Z",
     "company": "Odoo",
     "title": "Customer Care Associate (Indirect)"
+  },
+  "ashby:pleo:b77e813a-51c1-40f9-a2f9-539ce0536517": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Pleo",
+    "title": "Senior Operations and Collections Specialist"
+  },
+  "ashby:taxfix.com:0f2605f7-52a1-4484-9129-250cd1913547": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Taxfix",
+    "title": "Interim Staff Systems Engineer - IT & Infrastructure (d/f/m)"
+  },
+  "ashby:hawk:10ae0cc1-6492-4242-9c48-dc836e810a0d": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Hawk",
+    "title": "Head of Demand Generation, US"
+  },
+  "ashby:camunda:b51b79c6-e2d8-428d-8cdc-0d1aae9792a9": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Camunda",
+    "title": "Senior Software Engineer, Backend - Data Layer"
+  },
+  "ashby:camunda:ffd8bcc4-f714-48cc-91a0-ad14e57bde98": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Camunda",
+    "title": "Senior Software Engineer, Backend - Data Streaming"
+  },
+  "ashby:cosuno:dd93b733-ed03-4d72-ba19-ed36afcbba75": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Cosuno",
+    "title": "Senior AI Product Engineer"
+  },
+  "ashby:enpal:296c82c4-6eae-410a-906b-0a9ed97a9e15": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Enpal",
+    "title": "Founder's Associate – Strategy & Operations (w/m/d)"
+  },
+  "ashby:enpal:c22145b5-e15b-47df-be1e-c92341ff82ac": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Enpal",
+    "title": "Operations Coordinator - Italiano fluente C1"
+  },
+  "ashby:enpal:a832d365-8cdf-4b40-bf3d-c6aebcbf1fcb": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Enpal",
+    "title": "Office Manager"
+  },
+  "ashby:enpal:5e712db7-5be9-4835-906c-b6be3fb77b94": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Enpal",
+    "title": "Operations Manager Intern"
+  },
+  "greenhouse:parloa:4972381101": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Parloa",
+    "title": " GTM Enablement - Delivery Program Specialist "
+  },
+  "greenhouse:parloa:4973759101": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Parloa",
+    "title": "Regional Readiness Manager (f/m/d)"
+  },
+  "greenhouse:raisin:4952227101": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Raisin",
+    "title": "(Junior) CS Operations Manager- Complaints Management (m/f/d)"
+  },
+  "greenhouse:raisin:4950899101": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Raisin",
+    "title": "Senior International PR Manager"
+  },
+  "personio-careers:1b2baf05-732a-467a-aebd-a227f06a5db9": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Personio",
+    "title": "Associate Customer Onboarding Specialist - Dutch Speaking"
+  },
+  "personio-careers:f345ce44-3819-4b8f-9ff0-fa18e87f2945": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Personio",
+    "title": "Platform Engineer - Infra & Cloud Delivery , L4 (f/m/d) "
+  },
+  "personio-careers:a2de98a9-7820-4be9-846f-e48b65c59b44": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Personio",
+    "title": "Senior CX Program Manager (d/f/m)"
+  },
+  "personio-careers:16fa0608-224c-4054-8194-7af0cd4c382d": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Personio",
+    "title": "Senior Solutions Consultant (d/f/m) - Existing Business, DACH"
+  },
+  "personio-careers:a60088e1-4d69-4ded-b71e-046002adef19": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Personio",
+    "title": "Solutions Consultant (d/f/m) - Existing Business, DACH"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:226ae029-cb53-45bf-b15b-447b8a2df61b": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "HiBob",
+    "title": "Senior Customer Experience Specialist"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:f57f2dd6-c4cb-4ba7-b6ea-5efa1482d67a": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "HiBob",
+    "title": "Global Payroll Administrator"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:ba66ee9f-fbbf-482e-a81e-bc5ddddc1e01": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "HiBob",
+    "title": "Senior Technical Support Specialist"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:9635ae52-bef2-49d6-a1c9-93fcc1a380fa": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "HiBob",
+    "title": "Vice President Sales ( UK)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:458a0345-0020-4b2d-be19-abd9ceb53d9a": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "HiBob",
+    "title": "Marketing & Events Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:01ee7923-96a9-4daa-9d07-56bc8765ed77": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "HiBob",
+    "title": "SMB Account Executive - NYC (Hybrid)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:8b5c7ba7-b820-4b7d-9681-f493cced1c69": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "HiBob",
+    "title": "Broker Partner Manager - PST"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/technical-writer-527": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Odoo",
+    "title": "Technical Writer"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/partner-account-executive-516": {
+    "firstSeenAt": "2026-09-14T12:18:35.925Z",
+    "company": "Odoo",
+    "title": "Partner Account Executive"
   }
 }
