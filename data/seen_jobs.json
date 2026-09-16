@@ -8718,5 +8718,105 @@
     "firstSeenAt": "2026-09-14T12:18:35.925Z",
     "company": "Odoo",
     "title": "Partner Account Executive"
+  },
+  "ashby:n8n:da8c6a37-670d-4ad9-b5b3-898c395feee4": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "n8n",
+    "title": "Enterprise Sales Leader DACH"
+  },
+  "ashby:n8n:62309aac-598b-4cb0-bc1b-e0dad9cda130": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "n8n",
+    "title": "GTM Data Analyst"
+  },
+  "ashby:n8n:98dc8c86-b135-4803-8044-1d6f6a631aa8": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "n8n",
+    "title": "Forward Deployed Engineer - US East Coast"
+  },
+  "ashby:pleo:fa9f1ddf-85bc-4cb9-94ad-36669ac33a64": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "Pleo",
+    "title": "Deputy Head of Financial Crime"
+  },
+  "ashby:pleo:d77a779e-825d-476e-85a1-92b0326f2c46": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "Pleo",
+    "title": "Deputy Head of Financial Crime"
+  },
+  "ashby:taxfix.com:964694ed-03cf-49b6-bff5-2ee5a7703b0c": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "Taxfix",
+    "title": "Customer Success Intern (d/f/m)"
+  },
+  "ashby:camunda:1636c985-90d4-42b7-8450-52667e467874": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "Camunda",
+    "title": "Senior Sales Engineer - BFSI - North America"
+  },
+  "ashby:camunda:4602acfd-fe5d-44e4-955c-a17667803dcb": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "Camunda",
+    "title": "Customer Success Manager - AMER"
+  },
+  "ashby:camunda:930ede0a-a3e7-47ec-bc66-ec3f8d317c9a": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "Camunda",
+    "title": "Senior Sales Engineer - DACH"
+  },
+  "ashby:camunda:58c2569c-9a8a-48b8-8a55-2405fe25995b": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "Camunda",
+    "title": "Senior Sales Engineer - Life Science - North America"
+  },
+  "ashby:camunda:a48eb6af-0e38-4f02-b4d7-f929264bf251": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "Camunda",
+    "title": "Senior Sales Engineer - North America"
+  },
+  "ashby:enpal:e6c9fda0-0d92-4b95-8cd4-6cb1d73e71e5": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "Enpal",
+    "title": "Accountant - Italian required (at least B2)"
+  },
+  "greenhouse:parloa:4975772101": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "Parloa",
+    "title": "Staff/Principal Product Manager, Agent Management Platform"
+  },
+  "greenhouse:raisin:4976824101": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "Raisin",
+    "title": "International PR Manager"
+  },
+  "personio-careers:4a6acabd-61b1-48df-9358-891407607be0": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "Personio",
+    "title": "Account Executive UKI (d/f/m)"
+  },
+  "personio-careers:bcd88df5-4de8-4799-a6da-7daa9b5dd5cf": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "Personio",
+    "title": "Team Lead - Account Executives UKI (d/f/m)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:3a0f88e4-a447-4d52-8049-7a0262264e15": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "HiBob",
+    "title": "Implementation Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:f8a82ef6-859b-4ae7-a856-33e26f7d3323": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "HiBob",
+    "title": "Enterprise Account Executive - Toronto"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:d1e603a6-b20d-4b3e-afb9-0344a90872d4": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "HiBob",
+    "title": "Product Manager - Payroll - UK"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/customer-care-associate-french-1931": {
+    "firstSeenAt": "2026-09-16T11:11:39.266Z",
+    "company": "Odoo",
+    "title": "Customer Care Associate, French"
   }
 }
