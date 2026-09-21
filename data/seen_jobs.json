@@ -8818,5 +8818,160 @@
     "firstSeenAt": "2026-09-16T11:11:39.266Z",
     "company": "Odoo",
     "title": "Customer Care Associate, French"
+  },
+  "ashby:pleo:1469f1e9-4aa2-4f48-af8b-490e074faf8e": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Pleo",
+    "title": "Customer Support Senior Associate "
+  },
+  "ashby:pleo:5e3ddc97-2d65-4109-adc0-7606f596f834": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Pleo",
+    "title": "Account Manager UKI"
+  },
+  "ashby:pleo:2d4d9c12-4b0d-4261-8fcb-8fced4a5b881": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Pleo",
+    "title": "EXTERNAL TEMPLATE - Remote adverts"
+  },
+  "ashby:pleo:50bd7da7-40eb-4042-97e9-06fc0ef149d2": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Pleo",
+    "title": "Senior Data Engineer (Commercial Analytics)"
+  },
+  "ashby:pleo:fe3ce1d0-a0cf-4ba5-bf04-dd98d2ebb6b4": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Pleo",
+    "title": "Talent Acquisition Partner"
+  },
+  "ashby:pleo:4e0be3a8-1b4c-4cfa-9b6b-45a44b809586": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Pleo",
+    "title": "Senior Data Engineer (Commercial Analytics)"
+  },
+  "ashby:taxfix.com:642f356d-c858-4f03-a69c-01f099b8f7ff": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Taxfix",
+    "title": "Senior Platform Security Engineer "
+  },
+  "ashby:camunda:82a25a7d-052f-4094-952c-1b9e263cd440": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Camunda",
+    "title": "Manager, ADR - EMEA"
+  },
+  "ashby:camunda:d616d7a7-a3c5-4c8a-8078-807ddf813683": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Camunda",
+    "title": "Lead Employment Counsel "
+  },
+  "ashby:taktile:0b4b10a5-eca9-4cde-bc53-3050b60d371f": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Taktile",
+    "title": "Director of Forward Deployed Engineering, NORAM"
+  },
+  "ashby:enpal:f3a125f2-1b9f-4390-93fb-1e667c18813e": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Enpal",
+    "title": "Revenue Manager Sales Performance (m/w/d)"
+  },
+  "ashby:enpal:5ce3e0cc-30ba-4dfd-b128-aa5bbe72805c": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Enpal",
+    "title": "Partner Sales Manager (w/m/d)"
+  },
+  "ashby:enpal:b54e7f97-2f63-47a2-9a10-92583dae426e": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Enpal",
+    "title": "Onboarding Manager:in (w/m/d)"
+  },
+  "ashby:enpal:8acdd60b-eb0f-4a15-afbf-4e1788ff7494": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Enpal",
+    "title": "Partner Sales Manager (w/m/d)"
+  },
+  "ashby:enpal:1e8cd7b6-f471-489b-a6a2-9653b800f802": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Enpal",
+    "title": "SEM Marketing Junior "
+  },
+  "ashby:billie:fcc221b2-5ff3-47e0-a666-48b539b5543b": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Billie",
+    "title": "Compliance Expert and Deputy MLRO (w/m/d) "
+  },
+  "greenhouse:parloa:4979596101": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Parloa",
+    "title": "Partner Sales Manager - Technology"
+  },
+  "greenhouse:parloa:4977872101": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Parloa",
+    "title": "Senior Program Manager, Product & GTM Programs"
+  },
+  "greenhouse:parloa:4977196101": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Parloa",
+    "title": "Senior Technical Program Manager"
+  },
+  "greenhouse:parloa:4978967101": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Parloa",
+    "title": "Sr Partner Agent Architect (UK)"
+  },
+  "greenhouse:raisin:4980055101": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Raisin",
+    "title": "Team Lead Deposit Operations - Synchronised Model (m/f/d)"
+  },
+  "personio:merantix-momentum:2803813": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Merantix Momentum",
+    "title": "AI Transformation Manager (f/m/d)"
+  },
+  "personio:syseleven:2800963": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "SysEleven",
+    "title": "Werkstudent:in IT Servicemanagement (m/w/d)"
+  },
+  "personio-careers:79f8b4be-79a3-4290-a61a-f07d5d8c7dd1": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Personio",
+    "title": "Core Accounting Lead (d/f/m)"
+  },
+  "personio-careers:a7df65a3-7855-4b02-a225-bd0787c507bb": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "Personio",
+    "title": "Talent Acquisition Coordinator (d/f/m) - 6-Month Fixed-Term Contract"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:fa5d9e81-512b-4cb6-bfdd-617830d72f46": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "HiBob",
+    "title": "Manager, Customer Success"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:32c6fd23-60fc-426d-b2bd-3d6db1f85eab": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "HiBob",
+    "title": "Senior Account Executive"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:48faef3a-1795-45df-8b7a-5c8518589a02": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "HiBob",
+    "title": "Manager of Customer Growth"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:a1a652c9-61ef-48c3-a71b-9cdb68ef85f4": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "HiBob",
+    "title": "Senior Account Executive (Enterprise) - EuroWest"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:47081698-8ae4-4017-8400-2895bcbad069": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "HiBob",
+    "title": "Partner Manager - VC"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:f19beb85-c29c-438f-a294-1d6bca0c350a": {
+    "firstSeenAt": "2026-09-21T12:26:49.060Z",
+    "company": "HiBob",
+    "title": "Account Manager - SMB"
   }
 }
