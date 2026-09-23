@@ -8973,5 +8973,160 @@
     "firstSeenAt": "2026-09-21T12:26:49.060Z",
     "company": "HiBob",
     "title": "Account Manager - SMB"
+  },
+  "ashby:n8n:5d1a70e5-d4f2-4d11-81a6-ee49a333f3d4": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "n8n",
+    "title": "Strategic Customer Experience & Success Programs Manager "
+  },
+  "ashby:n8n:a5e8e2fa-a83d-49d5-b27a-2ce46f3b727a": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "n8n",
+    "title": "Head of People Operations & Tech"
+  },
+  "ashby:pleo:510822ab-801a-4517-9dfd-b5e008d0762c": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Pleo",
+    "title": "Transaction Monitoring Analyst"
+  },
+  "ashby:pleo:1e6e1013-695b-4b16-98fb-4fff5d70fafa": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Pleo",
+    "title": "Transaction Monitoring Analyst "
+  },
+  "ashby:pleo:88379220-a1d2-4805-8523-e34ae1b825cb": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Pleo",
+    "title": "Customer Onboarding Manager I - Lisbon / Madrid / Berlin"
+  },
+  "ashby:pleo:56c51ea0-31c0-492f-bdc7-bd5efff5cd25": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Pleo",
+    "title": "Senior Backend Engineer - Payments"
+  },
+  "ashby:hawk:76ac3613-27bc-460f-a377-7c223573e717": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Hawk",
+    "title": "ABM Manager"
+  },
+  "ashby:camunda:a622b4e6-793b-442d-9196-3e984c4238bf": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Camunda",
+    "title": "Senior Data Engineer"
+  },
+  "ashby:camunda:ae101c99-ef04-4317-bf78-da18d61dcda4": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Camunda",
+    "title": "Senior Site Reliability Engineer"
+  },
+  "ashby:camunda:398387ae-2593-4992-b591-a8dff255d607": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Camunda",
+    "title": "Senior Software Engineer, Kubernetes "
+  },
+  "ashby:cosuno:a18adeb8-4ce0-4a78-b149-d41dce0529a0": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Cosuno",
+    "title": "Office Manager (m/w/d) - mit Perspektive People Operations "
+  },
+  "ashby:enpal:7b8573da-bbbb-4c47-8644-372219ecbe8a": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Enpal",
+    "title": "(Junior) Legal Counsel Corporate (w/m/d)"
+  },
+  "ashby:enpal:4d7d08d5-a882-4cbb-b326-fd0c80a8a331": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Enpal",
+    "title": "Growth & AI Consultant (w/m/d)"
+  },
+  "ashby:enpal:2bc6d4a3-0729-411f-9a0f-c487c142c4f6": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Enpal",
+    "title": "Inside Sales - Categoria Protetta L. 68/99 "
+  },
+  "ashby:enpal:63e1af3e-deb0-4384-bab0-5c8c1b493f48": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Enpal",
+    "title": "Customer Settlement Expert"
+  },
+  "greenhouse:parloa:4983078101": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Parloa",
+    "title": "Sr Enablement Manager - Regional Readiness (f/m/d)"
+  },
+  "personio-careers:c01ce63c-c47d-4a9c-ac99-33b2f81fd797": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Personio",
+    "title": "Lead Account Management (d/f/m) "
+  },
+  "personio-careers:37f19ed0-a88d-4457-9c36-97a03932cacf": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Personio",
+    "title": "Sales Talent (m/f/d) – Your Career Change Into Sales"
+  },
+  "personio-careers:d0482041-816e-4db4-8c29-7be77980c62d": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Personio",
+    "title": "(Senior) Solutions Engineer DE (d/f/m)"
+  },
+  "personio-careers:a6c9d311-e8a1-4580-8d34-2b4450add0df": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Personio",
+    "title": "Senior Talent Acquisition Partner (Engineering) (d/f/m)"
+  },
+  "personio-careers:86de0993-afb0-4348-9ae0-ab18e057f5e6": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Personio",
+    "title": "Solutions Engineer - Germany (Public Sector, NGOs & Education) (d/f/m) "
+  },
+  "hibob:hibob-fa0ad69d0cb34a:ffc949e2-d0a3-412b-9a12-d1a06ed36edc": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "HiBob",
+    "title": "Senior Technical Support Specialist (NYC)"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:cc098d8a-96b9-439d-8b43-36f94d5efbc3": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "HiBob",
+    "title": "Product Support Specialist"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:8461bcde-a77e-4537-a1ff-a38fe7c22519": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "HiBob",
+    "title": "Partner Marketing Manager - EST"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:d75fc95e-1ea4-410a-8e71-bba6078d3247": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "HiBob",
+    "title": "Senior Global Technology Partner Marketing Manager - EST"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:eba7ead0-29bd-4261-8a31-e7a87b16d932": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "HiBob",
+    "title": "Account Manager - EST"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:c524676b-dd94-431b-a78f-980b0aed888b": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "HiBob",
+    "title": "Technology Partnerships Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:3b2ec1ea-7d57-401b-b952-8799b030a795": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "HiBob",
+    "title": "Sales Development Manager"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:a7edd505-906b-4cd4-885f-4cb1fbc570d4": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "HiBob",
+    "title": "Sales Director - Mid Market"
+  },
+  "hibob:hibob-fa0ad69d0cb34a:15060fa3-7b16-4f70-8e1f-0190a1e6005b": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "HiBob",
+    "title": "Head of Talent, Performance & Capability (Maternity Leave)"
+  },
+  "scrape:odoo:https://www.odoo.com/jobs/account-executive-buffalo-ny-510": {
+    "firstSeenAt": "2026-09-23T11:09:35.795Z",
+    "company": "Odoo",
+    "title": "Account Executive - Buffalo, NY"
   }
 }
